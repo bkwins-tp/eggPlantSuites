@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Untitled">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2015-12-07 09:30:27 -0700</FirstRun>
+  <LastRun>2015-12-07 14:13:51 -0700</LastRun>
+  <TotalTimeOnSuccess>38.559606</TotalTimeOnSuccess>
+ </script>
+ <script name="omEga">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-01-18 12:54:08 -0700</FirstRun>
+  <LastRun>2016-01-18 12:54:08 -0700</LastRun>
+  <TotalTimeOnSuccess>0.298167</TotalTimeOnSuccess>
+ </script>
+</statistics>

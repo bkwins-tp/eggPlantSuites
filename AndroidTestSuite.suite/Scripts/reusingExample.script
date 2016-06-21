@@ -1,0 +1,3 @@
+﻿set the FinalSuites to (DSD & "mySuite.suite",  DSD & "myOtherSuite.suite")
+
+put ImageLocation ("ChromeOnAndroidDesktop")

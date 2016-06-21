@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="omEga.script" package="AndroidTestSuite.suite" timestamp="2016-01-18 12:54:08.603 -0700"
+ tests="1" successes="1" errors="0" time="0.298167">
+  <properties>
+   <property name="RunDate" value="2016-01-18 12:54:08.603 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="omEga.script" assertions="1" successes="1" errors="0" time="0.295676">
+  </testcase>
+ </testsuite>
+</testsuites>
