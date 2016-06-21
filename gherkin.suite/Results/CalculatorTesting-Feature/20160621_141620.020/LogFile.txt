@@ -1,0 +1,48 @@
+﻿2016-06-21 14:16:20.020 -0600	START		Running CalculatorTesting.feature
+2016-06-21 14:16:23.023 -0600	imagefound	Calculator	Unable to Find Image Calculator	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:23.023 -0600	click	WindowsButton	at (24, 808)	3	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:24.024 -0600	typetext		calculator[return]	4	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:24.024 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-21 14:16:25.025 -0600	click	CalcClearButton	at (784, 319)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:25.025 -0600	LogSuccess		there is no current value in the calculator
+2016-06-21 14:16:26.026 -0600	typetext		4[return]	3	on_i_enter_num___num_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:26.026 -0600	LogSuccess		I enter 2 + 2 in the calculator
+2016-06-21 14:16:26.026 -0600	LogWarning		the value returned should be 4
+2016-06-21 14:16:27.027 -0600	imagefound	Calculator	found at (720, 175)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:27.027 -0600	click		at (720, 175)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:27.027 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-21 14:16:28.028 -0600	click	CalcClearButton	at (784, 319)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:28.028 -0600	LogSuccess		there is no current value in the calculator
+2016-06-21 14:16:28.028 -0600	typetext		6[return]	3	on_i_enter_num_minus_num_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:28.028 -0600	LogSuccess		I enter 10 minus 4 in the calculator
+2016-06-21 14:16:28.028 -0600	LogWarning		the value returned should be 6
+2016-06-21 14:16:29.029 -0600	imagefound	Calculator	found at (720, 175)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:29.029 -0600	click		at (720, 175)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:29.029 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-21 14:16:30.030 -0600	click	CalcClearButton	at (784, 319)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:30.030 -0600	LogSuccess		there is no current value in the calculator
+2016-06-21 14:16:30.030 -0600	LogWarning		I multiply <Number1> by <Number2> in the calculator app
+2016-06-21 14:16:30.030 -0600	LogSuccess		the app displays the correct answer
+2016-06-21 14:16:31.031 -0600	imagefound	Calculator	found at (720, 175)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:31.031 -0600	click		at (720, 175)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:31.031 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-21 14:16:32.032 -0600	click	CalcClearButton	at (784, 319)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:32.032 -0600	LogSuccess		there is no current value in the calculator
+2016-06-21 14:16:33.033 -0600	LogWarning		I multiply <Number1> by <Number2> in the calculator app
+2016-06-21 14:16:33.033 -0600	LogSuccess		the app displays the correct answer
+2016-06-21 14:16:33.033 -0600	imagefound	Calculator	found at (720, 175)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:33.033 -0600	click		at (720, 175)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:33.033 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-21 14:16:34.034 -0600	click	CalcClearButton	at (784, 319)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:34.034 -0600	LogSuccess		there is no current value in the calculator
+2016-06-21 14:16:34.034 -0600	LogWarning		I multiply <Number1> by <Number2> in the calculator app
+2016-06-21 14:16:34.034 -0600	LogSuccess		the app displays the correct answer
+2016-06-21 14:16:35.035 -0600	imagefound	Calculator	found at (720, 175)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:35.035 -0600	click		at (720, 175)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:36.036 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-21 14:16:36.036 -0600	click	CalcClearButton	at (784, 319)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-21 14:16:36.036 -0600	LogSuccess		there is no current value in the calculator
+2016-06-21 14:16:36.036 -0600	LogWarning		I multiply <Number1> by <Number2> in the calculator app
+2016-06-21 14:16:36.036 -0600	LogSuccess		the app displays the correct answer
+2016-06-21 14:16:36.036 -0600	EndTestCase		(Duration:"16.148", Errors:"0", Exceptions:"0", StartTime:"2016-06-21 14:16:20 -0600", Successes:"18", TestCase:"CalculatorTesting.feature", Warnings:"6")
+2016-06-21 14:16:36.036 -0600	FAILURE	Screen_Error.png	6 scenarios (6 failed, 0 passed) 24 steps (0 failed, 6 skipped, 18 passed) Execution Time 0:00:16

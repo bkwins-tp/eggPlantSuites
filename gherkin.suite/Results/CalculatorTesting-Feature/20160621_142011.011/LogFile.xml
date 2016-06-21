@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CalculatorTesting.feature" package="gherkin.suite" timestamp="2016-06-21 14:20:11.011 -0600"
+ tests="1" successes="22" errors="5" time="17.232000">
+  <properties>
+   <property name="RunDate" value="2016-06-21 14:20:11.011 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="CalculatorTesting.feature" assertions="27" successes="22" errors="5" time="17.222">
+    <failure type="LogError">I multiply <Number1> by <Number2> in the calculator app</failure>
+    <failure type="LogError">I multiply <Number1> by <Number2> in the calculator app</failure>
+    <failure type="LogError">I multiply <Number1> by <Number2> in the calculator app</failure>
+    <failure type="LogError">I multiply <Number1> by <Number2> in the calculator app</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

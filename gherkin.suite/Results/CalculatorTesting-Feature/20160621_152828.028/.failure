@@ -1,0 +1,1 @@
+2016-06-21 15:28:28.028 -0600,Failure,0:00:16,10,2,0,20160621_152828.028/LogFile.txt,"","SenseTalk Compiler Exception -- in i_multiply_var_by_var_in_the_calculator_app:\nWarning at line 12: Warning - Non-matching handler name: I_multiply_NumberNUM_by_NumberNUM_in_the_calculator_app",18

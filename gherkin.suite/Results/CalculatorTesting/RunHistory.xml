@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="CalculatorTesting">
+ <run>
+  <RunDate>2016-06-21 14:16:12.012 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.506000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160621_141612.012/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,55 @@
+﻿2016-06-21 15:29:54.054 -0600	START		Running CalculatorTesting.feature
+2016-06-21 15:29:55.055 -0600	imagefound	Calculator	found at (720, 175)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 15:29:55.055 -0600	click		at (720, 175)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 15:29:55.055 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-21 15:29:56.056 -0600	click	CalcClearButton	at (784, 319)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-21 15:29:56.056 -0600	LogSuccess		there is no current value in the calculator
+2016-06-21 15:29:56.056 -0600	typetext		4[return]	3	on_i_enter_num___num_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-21 15:29:56.056 -0600	LogSuccess		I enter 2 + 2 in the calculator
+2016-06-21 15:29:56.056 -0600	LogWarning		the value returned should be 4
+2016-06-21 15:29:57.057 -0600	imagefound	Calculator	found at (720, 175)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 15:29:57.057 -0600	click		at (720, 175)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 15:29:57.057 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-21 15:29:58.058 -0600	click	CalcClearButton	at (784, 319)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-21 15:29:58.058 -0600	LogSuccess		there is no current value in the calculator
+2016-06-21 15:29:59.059 -0600	typetext		6[return]	3	on_i_enter_num_minus_num_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-21 15:29:59.059 -0600	LogSuccess		I enter 10 minus 4 in the calculator
+2016-06-21 15:29:59.059 -0600	LogWarning		the value returned should be 6
+2016-06-21 15:30:00.000 -0600	imagefound	Calculator	found at (720, 175)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 15:30:00.000 -0600	click		at (720, 175)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 15:30:00.000 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-21 15:30:01.001 -0600	click	CalcClearButton	at (784, 319)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-21 15:30:01.001 -0600	LogSuccess		there is no current value in the calculator
+2016-06-21 15:30:01.001 -0600	LogError		I multiply <Number1> by <Number2> in the calculator app
+2016-06-21 15:30:02.002 -0600	readtext		(686,215,882,271)
+2016-06-21 15:30:02.002 -0600	LogSuccess		value is correct	5	on_the_app_displays_the_correct_answer	CalculatorTesting.script<SOURCE>
+2016-06-21 15:30:02.002 -0600	LogSuccess		the app displays the correct answer
+2016-06-21 15:30:02.002 -0600	imagefound	Calculator	found at (720, 175)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 15:30:03.003 -0600	click		at (720, 175)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 15:30:03.003 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-21 15:30:03.003 -0600	click	CalcClearButton	at (784, 319)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-21 15:30:03.003 -0600	LogSuccess		there is no current value in the calculator
+2016-06-21 15:30:03.003 -0600	LogError		I multiply <Number1> by <Number2> in the calculator app
+2016-06-21 15:30:05.005 -0600	readtext		(686,215,882,271)
+2016-06-21 15:30:05.005 -0600	LogSuccess		value is correct	5	on_the_app_displays_the_correct_answer	CalculatorTesting.script<SOURCE>
+2016-06-21 15:30:05.005 -0600	LogSuccess		the app displays the correct answer
+2016-06-21 15:30:05.005 -0600	imagefound	Calculator	found at (720, 175)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 15:30:05.005 -0600	click		at (720, 175)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 15:30:05.005 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-21 15:30:06.006 -0600	click	CalcClearButton	at (784, 319)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-21 15:30:06.006 -0600	LogSuccess		there is no current value in the calculator
+2016-06-21 15:30:06.006 -0600	LogError		I multiply <Number1> by <Number2> in the calculator app
+2016-06-21 15:30:07.007 -0600	readtext		(686,215,882,271)
+2016-06-21 15:30:07.007 -0600	LogSuccess		value is correct	5	on_the_app_displays_the_correct_answer	CalculatorTesting.script<SOURCE>
+2016-06-21 15:30:07.007 -0600	LogSuccess		the app displays the correct answer
+2016-06-21 15:30:08.008 -0600	imagefound	Calculator	found at (720, 175)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 15:30:08.008 -0600	click		at (720, 175)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-21 15:30:08.008 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-21 15:30:09.009 -0600	click	CalcClearButton	at (784, 319)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-21 15:30:09.009 -0600	LogSuccess		there is no current value in the calculator
+2016-06-21 15:30:09.009 -0600	LogError		I multiply <Number1> by <Number2> in the calculator app
+2016-06-21 15:30:10.010 -0600	readtext		(686,215,882,271)
+2016-06-21 15:30:10.010 -0600	LogSuccess		value is correct	5	on_the_app_displays_the_correct_answer	CalculatorTesting.script<SOURCE>
+2016-06-21 15:30:10.010 -0600	LogSuccess		the app displays the correct answer
+2016-06-21 15:30:10.010 -0600	EndTestCase		(Duration:"15.681", Errors:"5", Exceptions:"0", StartTime:"2016-06-21 15:29:54 -0600", Successes:"22", TestCase:"CalculatorTesting.feature", Warnings:"2")
+2016-06-21 15:30:11.011 -0600	FAILURE	Screen_Error.png	6 scenarios (6 failed, 0 passed) 24 steps (4 failed, 2 skipped, 18 passed) Execution Time 0:00:16
