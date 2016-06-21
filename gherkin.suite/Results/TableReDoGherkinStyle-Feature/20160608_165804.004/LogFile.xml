@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="TableReDoGherkinStyle.feature" package="gherkin.suite" timestamp="2016-06-08 16:58:04.004 -0600"
+ tests="1" successes="27" errors="22" time="0.365000">
+  <properties>
+   <property name="RunDate" value="2016-06-08 16:58:04.004 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="TableReDoGherkinStyle.feature" assertions="49" successes="27" errors="22" time="0.357">
+    <failure type="LogError">I click the Chrome browser icon</failure>
+    <failure type="LogError">The Chrome browser is open</failure>
+    <failure type="LogError">The Chrome browser is open</failure>
+    <failure type="LogError">I enter a website address in the browser bar</failure>
+    <failure type="LogError">the browser shows the correct web page</failure>
+    <failure type="LogError">the browser shows the correct web page</failure>
+    <failure type="LogError">I enter a <searchterm> in the page search field</failure>
+    <failure type="LogError">A listing for the <searchterm> item appears</failure>
+    <failure type="LogError">the browser shows the correct web page</failure>
+    <failure type="LogError">I enter a <searchterm> in the page search field</failure>
+    <failure type="LogError">A listing for the <searchterm> item appears</failure>
+    <failure type="LogError">the browser shows the correct web page</failure>
+    <failure type="LogError">I enter a <searchterm> in the page search field</failure>
+    <failure type="LogError">A listing for the <searchterm> item appears</failure>
+    <failure type="LogError">the browser shows the correct web page</failure>
+    <failure type="LogError">I enter a <searchterm> in the page search field</failure>
+    <failure type="LogError">A listing for the <searchterm> item appears</failure>
+    <failure type="LogError">A listing for the search item appears</failure>
+    <failure type="LogError">I verify by searching text for the verification words</failure>
+    <failure type="LogError">The Chrome browser is open</failure>
+    <failure type="LogError">I click the close icon on the browser bar</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

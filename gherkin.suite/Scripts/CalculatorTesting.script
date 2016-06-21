@@ -1,0 +1,74 @@
+﻿
+to handle that_the_Calculator_app_is_running_and_in_focus
+	If not ImageFound("Calculator")
+		Click "WindowsButton"
+		TypeText "calculator",Return
+	else	
+		Click FoundImageLocation() 
+	End If
+	
+end that_the_Calculator_app_is_running_and_in_focus
+
+to handle there_is_no_current_value_in_the_calculator
+	Click (Image:"CalcClearButton", WaitFor:10)
+	
+end there_is_no_current_value_in_the_calculator
+
+to handle I_enter_NUM___NUM_in_the_calculator
+	params num1, num2
+	TypeText num1+num2,Return
+end I_enter_NUM___NUM_in_the_calculator
+
+to handle the_value_returned_should_be_4
+	put readtext("CalculatorWindow_A","CalculatorWindow_B") into answer1
+	If answer1 = 4
+		LogSuccess "value is correct"
+	else
+		LogError "Fail! bad calculation!"
+	End If
+	
+end the_value_returned_should_be_4
+
+to handle I_enter_NUM_minus_NUM_in_the_calculator
+	params num1, num2
+	TypeText num1 - num2,Return
+end I_enter_NUM_minus_NUM_in_the_calculator
+
+to handle the_value_returned_should_be_6
+	put readtext("CalculatorWindow_A","CalculatorWindow_B") into answer1
+	log readtext("CalculatorWindow_A","CalculatorWindow_B")
+	If answer1 = 6
+		LogSuccess "value is correct"
+	else
+		LogError "Fail! Bad calculation!"
+	end if
+end the_value_returned_should_be_6
+
+
+to handle I_multiply_NumberNUM_by_NumberNUM_in_the_calculator_app
+	params num1, num2
+	
+	(*	ask "What is the first number?"
+	put it into num1
+	ask "what is the second number?"
+	put it into num2*)
+	TypeText num1
+	typetext "*"
+	TypeText num2, return
+	
+end I_multiply_NumberNUM_by_NumberNUM_in_the_calculator_app
+
+params num1, num2
+put readtext("CalculatorWindow_A","CalculatorWindow_B") into answer1
+If answer1 = num1*num2
+	LogSuccess "value is correct"
+else
+	LogError "Fail! bad calculation!"
+End If
+
+end the_app_displays_the_correct_answer
+
+
+to handle the_app_displays_the_correct_answer
+	
+end the_app_displays_the_correct_answer

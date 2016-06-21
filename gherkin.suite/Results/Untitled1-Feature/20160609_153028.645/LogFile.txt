@@ -1,0 +1,7 @@
+﻿2016-06-09 15:30:28.645 -0600	START		Running Untitled1.feature
+2016-06-09 15:30:28.652 -0600	LogWarning		asdf
+2016-06-09 15:30:28.652 -0600	LogWarning		and blah
+2016-06-09 15:30:28.653 -0600	LogWarning		skickey
+2016-06-09 15:30:28.654 -0600	LogWarning		boo hoo
+2016-06-09 15:30:28.656 -0600	EndTestCase		(Duration:"0.009219", Errors:"0", Exceptions:"0", StartTime:"2016-06-09 15:30:28 -0600", Successes:"1", TestCase:"Untitled1.feature", Warnings:"4")
+2016-06-09 15:30:28.660 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 4 steps (0 failed, 4 skipped, 0 passed) Execution Time 0:00:00

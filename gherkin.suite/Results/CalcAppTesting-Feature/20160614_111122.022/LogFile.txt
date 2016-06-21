@@ -1,0 +1,13 @@
+﻿2016-06-14 11:11:22.022 -0600	START		Running CalcAppTesting.feature
+2016-06-14 11:11:22.022 -0600	imagefound	Calculator	found at (720, 175)	2	on_that_the_calculator_app_is_running_and_in_focus	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-14 11:11:22.022 -0600	click		at (720, 175)	6	on_that_the_calculator_app_is_running_and_in_focus	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-14 11:11:22.022 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-14 11:11:23.023 -0600	click	CalcClearButton	at (784, 319)	2	on_there_is_no_current_value_in_the_calculator	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-14 11:11:23.023 -0600	LogSuccess		there is no current value in the calculator
+2016-06-14 11:11:23.023 -0600	LogSuccess		I enter the first number in the calculator
+2016-06-14 11:11:23.023 -0600	LogSuccess		I click the plus button ok
+2016-06-14 11:11:23.023 -0600	LogWarning		I enter the second number ok
+2016-06-14 11:11:23.023 -0600	LogWarning		I click the equals button
+2016-06-14 11:11:23.023 -0600	LogWarning		the value displayed should be the correct sum for the two numbers entered
+2016-06-14 11:11:23.023 -0600	EndTestCase		(Duration:"1.819", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 11:11:22 -0600", Successes:"4", TestCase:"CalcAppTesting.feature", Warnings:"3")
+2016-06-14 11:11:24.024 -0600	FAILURE	Screen_Error.png	1 scenarios (1 failed, 0 passed) 7 steps (0 failed, 3 skipped, 4 passed) Execution Time 0:00:01

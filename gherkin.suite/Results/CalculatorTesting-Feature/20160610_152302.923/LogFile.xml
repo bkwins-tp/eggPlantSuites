@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CalculatorTesting.feature" package="gherkin.suite" timestamp="2016-06-10 15:23:02.923 -0600"
+ tests="1" successes="26" errors="1" time="14.238400">
+  <properties>
+   <property name="RunDate" value="2016-06-10 15:23:02.923 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="CalculatorTesting.feature" assertions="27" successes="26" errors="1" time="14.236776">
+    <failure type="LogError">Fail! bad calculation!</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

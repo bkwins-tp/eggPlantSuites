@@ -1,0 +1,49 @@
+﻿2016-06-10 15:44:40.969 -0600	START		Running CalculatorTesting.feature
+2016-06-10 15:44:41.335 -0600	imagefound	Calculator	found at (716, 172)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:41.422 -0600	click		at (716, 172)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:41.423 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 15:44:41.424 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 15:44:42.313 -0600	click	CalcClearButton	at (780, 316)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:42.314 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 15:44:42.315 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 15:44:43.038 -0600	typetext		4[return]	3	on_i_enter_num___num_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:43.039 -0600	LogSuccess		I enter 2 + 2 in the calculator
+2016-06-10 15:44:43.039 -0600	LogSuccess		I enter 2 + 2 in the calculator
+2016-06-10 15:44:44.557 -0600	readtext		(682,212,878,268)
+2016-06-10 15:44:44.558 -0600	LogSuccess		value is correct	4	on_the_value_returned_should_be_4	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:44.560 -0600	LogSuccess		the value returned should be 4
+2016-06-10 15:44:44.561 -0600	LogSuccess		the value returned should be 4
+2016-06-10 15:44:44.936 -0600	imagefound	Calculator	found at (716, 172)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:45.028 -0600	click		at (716, 172)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:45.029 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 15:44:45.030 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 15:44:46.278 -0600	click	CalcClearButton	at (780, 316)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:46.280 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 15:44:46.281 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 15:44:47.009 -0600	typetext		6[return]	3	on_i_enter_num_minus_num_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:47.010 -0600	LogSuccess		I enter 10 minus 4 in the calculator
+2016-06-10 15:44:47.011 -0600	LogSuccess		I enter 10 minus 4 in the calculator
+2016-06-10 15:44:48.522 -0600	readtext		(682,212,878,268)
+2016-06-10 15:44:49.373 -0600	readtext		(682,212,878,268)
+2016-06-10 15:44:49.374 -0600	Log		6	3	on_the_value_returned_should_be_6	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:49.376 -0600	LogSuccess		value is correct	5	on_the_value_returned_should_be_6	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:49.377 -0600	LogSuccess		the value returned should be 6
+2016-06-10 15:44:49.378 -0600	LogSuccess		the value returned should be 6
+2016-06-10 15:44:49.756 -0600	imagefound	Calculator	found at (716, 172)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:49.849 -0600	click		at (716, 172)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:49.849 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 15:44:49.851 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 15:44:51.099 -0600	click	CalcClearButton	at (780, 316)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:51.101 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 15:44:51.102 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 15:44:51.816 -0600	typetext		1	8	on_i_multiply_numbernum_by_numbernum_in_the_calculator_app	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:52.536 -0600	typetext		*	9	on_i_multiply_numbernum_by_numbernum_in_the_calculator_app	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:53.267 -0600	typetext		2[return]	10	on_i_multiply_numbernum_by_numbernum_in_the_calculator_app	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:53.267 -0600	LogSuccess		I multiply Number1 by Number2 in the calculator app
+2016-06-10 15:44:53.268 -0600	LogSuccess		I multiply Number1 by Number2 in the calculator app
+2016-06-10 15:44:54.806 -0600	readtext		(682,212,878,268)
+2016-06-10 15:44:54.808 -0600	LogError		Fail! bad calculation!	7	on_the_app_displays_the_correct_answer	CalculatorTesting.script<SOURCE>
+2016-06-10 15:44:54.810 -0600	LogSuccess		the app displays the correct answer
+2016-06-10 15:44:54.811 -0600	LogSuccess		the app displays the correct answer
+2016-06-10 15:44:54.813 -0600	EndTestCase		(Duration:"13.842641", Errors:"1", Exceptions:"0", StartTime:"2016-06-10 15:44:40 -0600", Successes:"26", TestCase:"CalculatorTesting.feature", Warnings:"0")
+2016-06-10 15:44:55.271 -0600	FAILURE	Screen_Error.png	3 scenarios (0 failed, 3 passed) 12 steps (0 failed, 0 skipped, 12 passed) Execution Time 0:00:13

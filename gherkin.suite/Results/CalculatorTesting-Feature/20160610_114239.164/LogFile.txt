@@ -1,0 +1,17 @@
+﻿2016-06-10 11:42:39.165 -0600	START		Running CalculatorTesting.feature
+2016-06-10 11:42:47.604 -0600	imagefound	Calculator	Unable to Find Image Calculator	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 11:42:48.869 -0600	click	WindowsButton	at (24, 819)	3	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 11:42:49.710 -0600	typetext		calculator[return]	4	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 11:42:49.711 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 11:42:49.712 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 11:42:50.589 -0600	click	CalcClearButton	at (677, 367)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 11:42:50.590 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 11:42:50.590 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 11:42:51.317 -0600	typetext		4[return]	3	on_i_enter_num___num_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 11:42:51.317 -0600	LogSuccess		I enter 2 + 2 in the calculator
+2016-06-10 11:42:51.318 -0600	LogSuccess		I enter 2 + 2 in the calculator
+2016-06-10 11:42:54.229 -0600	set		SEARCHRECTANGLE = (CalculatorWindow_A,CalculatorWindow_B)	2	on_the_value_returned_should_be_4	CalculatorTesting.script<SOURCE>
+2016-06-10 11:42:54.231 -0600	LogError		the value returned should be 4
+2016-06-10 11:42:54.231 -0600	LogSuccess		the value returned should be 4
+2016-06-10 11:42:54.233 -0600	EndTestCase		(Duration:"15.066249", Errors:"2", Exceptions:"0", StartTime:"2016-06-10 11:42:39 -0600", Successes:"7", TestCase:"CalculatorTesting.feature", Warnings:"0")
+2016-06-10 11:42:55.483 -0600	FAILURE	Screen_Error.png	1 scenarios (1 failed, 0 passed) 4 steps (1 failed, 0 skipped, 3 passed) Execution Time 0:00:15

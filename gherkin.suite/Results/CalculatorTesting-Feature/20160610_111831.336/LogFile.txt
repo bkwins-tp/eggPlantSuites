@@ -1,0 +1,13 @@
+﻿2016-06-10 11:18:31.337 -0600	START		Running CalculatorTesting.feature
+2016-06-10 11:18:40.564 -0600	imagefound	Calculator	Unable to Find Image Calculator	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 11:18:41.842 -0600	click	WindowsButton	at (24, 819)	3	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 11:18:42.685 -0600	typetext		calculator[return]	4	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 11:18:42.686 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 11:18:42.686 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 11:18:43.550 -0600	click	CalcClearButton	at (677, 367)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 11:18:43.552 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 11:18:43.552 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 11:18:43.553 -0600	LogWarning		I enter 2 + 2 in the calculator
+2016-06-10 11:18:43.553 -0600	LogWarning		the value returned should be 4
+2016-06-10 11:18:43.554 -0600	EndTestCase		(Duration:"12.216305", Errors:"0", Exceptions:"0", StartTime:"2016-06-10 11:18:31 -0600", Successes:"4", TestCase:"CalculatorTesting.feature", Warnings:"2")
+2016-06-10 11:18:43.798 -0600	FAILURE	Screen_Error.png	1 scenarios (1 failed, 0 passed) 4 steps (0 failed, 2 skipped, 2 passed) Execution Time 0:00:12

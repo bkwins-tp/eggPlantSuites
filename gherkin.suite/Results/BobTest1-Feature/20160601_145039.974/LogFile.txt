@@ -1,0 +1,24 @@
+﻿2016-06-01 14:50:39.975 -0600	START		Running BobTest1.feature
+2016-06-01 14:50:39.984 -0600	LogSuccess		<Name> has a valid Credit or Debit card
+2016-06-01 14:50:39.984 -0600	LogSuccess		<Name> has a valid Credit or Debit card
+2016-06-01 14:50:39.985 -0600	LogWarning		their account balance is <OriginalBalance>
+2016-06-01 14:50:39.986 -0600	LogWarning		they insert their card
+2016-06-01 14:50:39.986 -0600	LogWarning		withdraw <WithdrawalAmount>
+2016-06-01 14:50:39.987 -0600	LogWarning		the ATM should retrun <WithdrawalAmount>
+2016-06-01 14:50:39.987 -0600	LogWarning		their account balance is <NewBalance>
+2016-06-01 14:50:39.988 -0600	LogSuccess		<Name> has a valid Credit or Debit card
+2016-06-01 14:50:39.988 -0600	LogSuccess		<Name> has a valid Credit or Debit card
+2016-06-01 14:50:39.989 -0600	LogWarning		their account balance is <OriginalBalance>
+2016-06-01 14:50:39.990 -0600	LogWarning		they insert their card
+2016-06-01 14:50:39.990 -0600	LogWarning		withdraw <WithdrawalAmount>
+2016-06-01 14:50:39.991 -0600	LogWarning		the ATM should retrun <WithdrawalAmount>
+2016-06-01 14:50:39.991 -0600	LogWarning		their account balance is <NewBalance>
+2016-06-01 14:50:39.992 -0600	LogSuccess		<Name> has a valid Credit or Debit card
+2016-06-01 14:50:39.993 -0600	LogSuccess		<Name> has a valid Credit or Debit card
+2016-06-01 14:50:39.993 -0600	LogWarning		their account balance is <OriginalBalance>
+2016-06-01 14:50:39.994 -0600	LogWarning		they insert their card
+2016-06-01 14:50:39.994 -0600	LogWarning		withdraw <WithdrawalAmount>
+2016-06-01 14:50:39.995 -0600	LogWarning		the ATM should retrun <WithdrawalAmount>
+2016-06-01 14:50:39.996 -0600	LogWarning		their account balance is <NewBalance>
+2016-06-01 14:50:39.997 -0600	EndTestCase		(Duration:"0.02091", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 14:50:39 -0600", Successes:"6", TestCase:"BobTest1.feature", Warnings:"15")
+2016-06-01 14:50:40.001 -0600	SUCCESS		Execution Time 0:00:00 BobTest1.feature

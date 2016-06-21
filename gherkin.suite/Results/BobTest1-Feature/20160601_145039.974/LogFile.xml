@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="BobTest1.feature" package="gherkin.suite" timestamp="2016-06-01 14:50:39.974 -0600"
+ tests="1" successes="6" errors="0" time="0.021973">
+  <properties>
+   <property name="RunDate" value="2016-06-01 14:50:39.974 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="BobTest1.feature" assertions="6" successes="6" errors="0" time="0.02091">
+  </testcase>
+ </testsuite>
+</testsuites>

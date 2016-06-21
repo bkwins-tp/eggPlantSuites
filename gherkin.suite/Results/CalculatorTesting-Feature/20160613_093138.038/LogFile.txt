@@ -1,0 +1,37 @@
+﻿2016-06-13 09:31:38.038 -0600	START		Running CalculatorTesting.feature
+2016-06-13 09:31:38.038 -0600	Exception		Remote Connection Unavailable	2	on_that_the_calculator_app_is_running_and_in_focus	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-13 09:31:38.038 -0600	LogError		that the Calculator app is running and in focus
+2016-06-13 09:31:38.038 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-13 09:31:38.038 -0600	Exception		Remote Connection Unavailable	2	on_there_is_no_current_value_in_the_calculator	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-13 09:31:38.038 -0600	LogError		there is no current value in the calculator
+2016-06-13 09:31:38.038 -0600	LogSuccess		there is no current value in the calculator
+2016-06-13 09:31:38.038 -0600	Exception		Remote Connection Unavailable	3	on_i_enter_num___num_in_the_calculator	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-13 09:31:38.038 -0600	LogError		I enter 2 + 2 in the calculator
+2016-06-13 09:31:38.038 -0600	LogSuccess		I enter 2 + 2 in the calculator
+2016-06-13 09:31:38.038 -0600	Exception		Remote Connection Unavailable	2	on_the_value_returned_should_be_4	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-13 09:31:38.038 -0600	LogError		the value returned should be 4
+2016-06-13 09:31:38.038 -0600	LogSuccess		the value returned should be 4
+2016-06-13 09:31:38.038 -0600	Exception		Remote Connection Unavailable	2	on_that_the_calculator_app_is_running_and_in_focus	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-13 09:31:38.038 -0600	LogError		that the Calculator app is running and in focus
+2016-06-13 09:31:38.038 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-13 09:31:38.038 -0600	Exception		Remote Connection Unavailable	2	on_there_is_no_current_value_in_the_calculator	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-13 09:31:38.038 -0600	LogError		there is no current value in the calculator
+2016-06-13 09:31:38.038 -0600	LogSuccess		there is no current value in the calculator
+2016-06-13 09:31:38.038 -0600	Exception		Remote Connection Unavailable	3	on_i_enter_num_minus_num_in_the_calculator	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-13 09:31:38.038 -0600	LogError		I enter 10 minus 4 in the calculator
+2016-06-13 09:31:38.038 -0600	LogSuccess		I enter 10 minus 4 in the calculator
+2016-06-13 09:31:38.038 -0600	Exception		Remote Connection Unavailable	2	on_the_value_returned_should_be_6	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-13 09:31:38.038 -0600	LogError		the value returned should be 6
+2016-06-13 09:31:38.038 -0600	LogSuccess		the value returned should be 6
+2016-06-13 09:31:38.038 -0600	Exception		Remote Connection Unavailable	2	on_that_the_calculator_app_is_running_and_in_focus	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-13 09:31:38.038 -0600	LogError		that the Calculator app is running and in focus
+2016-06-13 09:31:38.038 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-13 09:31:38.038 -0600	Exception		Remote Connection Unavailable	2	on_there_is_no_current_value_in_the_calculator	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-13 09:31:38.038 -0600	LogError		there is no current value in the calculator
+2016-06-13 09:31:38.038 -0600	LogSuccess		there is no current value in the calculator
+2016-06-13 09:31:38.038 -0600	LogWarning		I multiply <Number1> by <Number2> in the calculator app
+2016-06-13 09:31:38.038 -0600	Exception		Remote Connection Unavailable	3	on_the_app_displays_the_correct_answer	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-13 09:31:38.038 -0600	LogError		the app displays the correct answer
+2016-06-13 09:31:38.038 -0600	LogSuccess		the app displays the correct answer
+2016-06-13 09:31:38.038 -0600	EndTestCase		(Duration:"0.199", Errors:"12", Exceptions:"11", StartTime:"2016-06-13 09:31:38 -0600", Successes:"11", TestCase:"CalculatorTesting.feature", Warnings:"1")
+2016-06-13 09:31:38.038 -0600	FAILURE		3 scenarios (3 failed, 0 passed) 12 steps (11 failed, 1 skipped, 0 passed) Execution Time 0:00:00

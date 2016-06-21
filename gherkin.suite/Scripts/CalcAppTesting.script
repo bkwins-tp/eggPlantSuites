@@ -1,0 +1,20 @@
+﻿
+to handle I_click_the_plus_button_ok
+	
+end I_click_the_plus_button_ok
+
+to handle I_enter_the_second_number
+	
+end I_enter_the_second_number
+
+to handle you_enter_the_second_number
+	
+end you_enter_the_second_number
+
+to handle I_enter_the_first_number_in_the_calculator
+	
+end I_enter_the_first_number_in_the_calculator
+
+to handle the_value_displayed_should_be_the_correct_sum_for_the_two_numbers_entered
+	
+end the_value_displayed_should_be_the_correct_sum_for_the_two_numbers_entered

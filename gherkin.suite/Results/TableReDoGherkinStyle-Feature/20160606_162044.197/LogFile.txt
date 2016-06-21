@@ -1,0 +1,88 @@
+﻿2016-06-06 16:20:44.198 -0600	START		Running TableReDoGherkinStyle.feature
+2016-06-06 16:20:44.209 -0600	LogSuccess		the SUT is in its initial state showing the desktop
+2016-06-06 16:20:44.210 -0600	LogSuccess		the SUT is in its initial state showing the desktop
+2016-06-06 16:20:44.725 -0600	click	ChromeIconToolbar	at (275, 821)	2	on_i_click_the_chrome_browser_icon	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:20:44.726 -0600	LogSuccess		I click the Chrome browser icon
+2016-06-06 16:20:44.727 -0600	LogSuccess		I click the Chrome browser icon
+2016-06-06 16:20:47.893 -0600	waitfor	ChromeReloadButton	found at (172, 62)	2	on_the_chrome_browser_is_open	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:20:47.894 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 16:20:47.896 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 16:20:47.999 -0600	waitfor	ChromeReloadButton	found at (172, 62)	2	on_the_chrome_browser_is_open	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:20:48.000 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 16:20:48.001 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 16:20:48.196 -0600	click	ChromeEnterAddressBar	at (228, 65)	2	on_i_enter_a_website_address_in_the_browser_bar	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:20:49.385 -0600	typetext		https://en.wikipedia.org/wiki/Main_Page[return]	3	on_i_enter_a_website_address_in_the_browser_bar	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:20:49.386 -0600	LogSuccess		I enter a website address in the browser bar
+2016-06-06 16:20:49.387 -0600	LogSuccess		I enter a website address in the browser bar
+2016-06-06 16:20:52.993 -0600	waitfor	WikipediaLogoText	found at (183, 217)	2	on_the_browser_shows_the_correct_web_page	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:20:52.994 -0600	LogSuccess		the browser shows the correct web page
+2016-06-06 16:20:52.995 -0600	LogSuccess		the browser shows the correct web page
+2016-06-06 16:20:53.211 -0600	waitfor	WikipediaLogoText	found at (183, 217)	2	on_the_browser_shows_the_correct_web_page	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:20:53.212 -0600	LogSuccess		the browser shows the correct web page
+2016-06-06 16:20:53.213 -0600	LogSuccess		the browser shows the correct web page
+2016-06-06 16:20:53.413 -0600	click	WikiSearchIcon	at (1125, 144)	3	on_i_enter_a_var_in_the_page_search_field	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:20:54.269 -0600	typetext		Yellowstone[return]	4	on_i_enter_a_var_in_the_page_search_field	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:20:54.270 -0600	LogSuccess		I enter a <searchterm> in the page search field
+2016-06-06 16:20:54.271 -0600	LogSuccess		I enter a <searchterm> in the page search field
+2016-06-06 16:20:56.861 -0600	set		SEARCHRECTANGLE = (WikiArticleTitleBar_A,WikiArticleTitleBar_B)	3	on_a_listing_for_the_var_item_appears	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:20:59.033 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(372,200), ImageRectangle:(296,189,449,212), Language:"English", Text:"Yellowstone", TextPlatform:"Generic OCR")	at (372, 200)	4	on_a_listing_for_the_var_item_appears	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:20:59.036 -0600	set		SEARCHRECTANGLE = 	5	on_a_listing_for_the_var_item_appears	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:20:59.037 -0600	LogSuccess		A listing for the <searchterm> item appears
+2016-06-06 16:20:59.038 -0600	LogSuccess		A listing for the <searchterm> item appears
+2016-06-06 16:20:59.164 -0600	waitfor	WikipediaLogoText	found at (183, 217)	2	on_the_browser_shows_the_correct_web_page	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:20:59.166 -0600	LogSuccess		the browser shows the correct web page
+2016-06-06 16:20:59.167 -0600	LogSuccess		the browser shows the correct web page
+2016-06-06 16:21:00.215 -0600	click	WikiSearchIcon	at (1125, 144)	3	on_i_enter_a_var_in_the_page_search_field	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:01.086 -0600	typetext		Grand Canyon[return]	4	on_i_enter_a_var_in_the_page_search_field	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:01.087 -0600	LogSuccess		I enter a <searchterm> in the page search field
+2016-06-06 16:21:01.088 -0600	LogSuccess		I enter a <searchterm> in the page search field
+2016-06-06 16:21:02.004 -0600	set		SEARCHRECTANGLE = (WikiArticleTitleBar_A,WikiArticleTitleBar_B)	3	on_a_listing_for_the_var_item_appears	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:02.253 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(389,203), ImageRectangle:(298,189,480,217), Language:"English", Text:"Grand Canyon", TextPlatform:"Generic OCR")	at (389, 203)	4	on_a_listing_for_the_var_item_appears	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:02.256 -0600	set		SEARCHRECTANGLE = 	5	on_a_listing_for_the_var_item_appears	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:02.256 -0600	LogSuccess		A listing for the <searchterm> item appears
+2016-06-06 16:21:02.257 -0600	LogSuccess		A listing for the <searchterm> item appears
+2016-06-06 16:21:02.436 -0600	waitfor	WikipediaLogoText	found at (183, 217)	2	on_the_browser_shows_the_correct_web_page	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:02.438 -0600	LogSuccess		the browser shows the correct web page
+2016-06-06 16:21:02.439 -0600	LogSuccess		the browser shows the correct web page
+2016-06-06 16:21:03.419 -0600	click	WikiSearchIcon	at (1125, 144)	3	on_i_enter_a_var_in_the_page_search_field	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:04.267 -0600	typetext		Disneyland[return]	4	on_i_enter_a_var_in_the_page_search_field	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:04.267 -0600	LogSuccess		I enter a <searchterm> in the page search field
+2016-06-06 16:21:04.268 -0600	LogSuccess		I enter a <searchterm> in the page search field
+2016-06-06 16:21:05.160 -0600	set		SEARCHRECTANGLE = (WikiArticleTitleBar_A,WikiArticleTitleBar_B)	3	on_a_listing_for_the_var_item_appears	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:05.400 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(369,203), ImageRectangle:(298,189,440,217), Language:"English", Text:"Disneyland", TextPlatform:"Generic OCR")	at (369, 203)	4	on_a_listing_for_the_var_item_appears	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:05.403 -0600	set		SEARCHRECTANGLE = 	5	on_a_listing_for_the_var_item_appears	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:05.403 -0600	LogSuccess		A listing for the <searchterm> item appears
+2016-06-06 16:21:05.404 -0600	LogSuccess		A listing for the <searchterm> item appears
+2016-06-06 16:21:05.535 -0600	waitfor	WikipediaLogoText	found at (183, 217)	2	on_the_browser_shows_the_correct_web_page	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:05.536 -0600	LogSuccess		the browser shows the correct web page
+2016-06-06 16:21:05.537 -0600	LogSuccess		the browser shows the correct web page
+2016-06-06 16:21:06.571 -0600	click	WikiSearchIcon	at (1125, 144)	3	on_i_enter_a_var_in_the_page_search_field	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:07.371 -0600	typetext		Acadia[return]	4	on_i_enter_a_var_in_the_page_search_field	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:07.372 -0600	LogSuccess		I enter a <searchterm> in the page search field
+2016-06-06 16:21:07.373 -0600	LogSuccess		I enter a <searchterm> in the page search field
+2016-06-06 16:21:08.292 -0600	set		SEARCHRECTANGLE = (WikiArticleTitleBar_A,WikiArticleTitleBar_B)	3	on_a_listing_for_the_var_item_appears	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:08.530 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(339,200), ImageRectangle:(296,189,382,212), Language:"English", Text:"Acadia", TextPlatform:"Generic OCR")	at (339, 200)	4	on_a_listing_for_the_var_item_appears	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:08.533 -0600	set		SEARCHRECTANGLE = 	5	on_a_listing_for_the_var_item_appears	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:08.534 -0600	LogSuccess		A listing for the <searchterm> item appears
+2016-06-06 16:21:08.535 -0600	LogSuccess		A listing for the <searchterm> item appears
+2016-06-06 16:21:10.056 -0600	set		SEARCHRECTANGLE = (WikiArticleTitleBar_A,WikiArticleTitleBar_B)	2	on_a_listing_for_the_search_item_appears	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:17.351 -0600	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", Text:"Yellowstone", TextPlatform:"Generic OCR")	No Image Found On Screen: "(TEXT:"Yellowstone")"	3	on_a_listing_for_the_search_item_appears	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:17.357 -0600	LogError		A listing for the search item appears
+2016-06-06 16:21:17.359 -0600	LogSuccess		A listing for the search item appears
+2016-06-06 16:21:25.981 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", Text:"national park", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"national park")	2	on_i_verify_by_searching_text_for_the_verification_words	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:25.985 -0600	LogError		Not found :( 	6	on_i_verify_by_searching_text_for_the_verification_words	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:21:25.986 -0600	LogSuccess		I verify by searching text for the verification words
+2016-06-06 16:21:25.987 -0600	LogSuccess		I verify by searching text for the verification words
+2016-06-06 16:21:25.988 -0600	LogSuccess		The words will be found in the text of the page
+2016-06-06 16:21:25.989 -0600	LogSuccess		The words will be found in the text of the page
+2016-06-06 16:22:11.265 -0600	Exception	ChromeReloadButton	Unable To Find Any Image On Screen "ChromeReloadButton" within 10.00 seconds	2	on_the_chrome_browser_is_open	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:22:11.270 -0600	LogError		The Chrome browser is open
+2016-06-06 16:22:11.271 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 16:23:26.422 -0600	Exception	ChromeCloseX	No Image Found On Screen: "ChromeCloseX"	2	on_i_click_the_close_icon_on_the_browser_bar	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:23:26.426 -0600	LogError		I click the close icon on the browser bar
+2016-06-06 16:23:26.427 -0600	LogSuccess		I click the close icon on the browser bar
+2016-06-06 16:23:26.428 -0600	Log		we're done, reset, and ready to go again!	3	on_the_browser_closes_returning_the_sut_to_its_initial_state	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 16:23:26.430 -0600	LogSuccess		The browser closes returning the SUT to its initial state
+2016-06-06 16:23:26.431 -0600	LogSuccess		The browser closes returning the SUT to its initial state
+2016-06-06 16:23:26.433 -0600	EndTestCase		(Duration:"162.233097", Errors:"5", Exceptions:"3", StartTime:"2016-06-06 16:20:44 -0600", Successes:"45", TestCase:"TableReDoGherkinStyle.feature", Warnings:"0")
+2016-06-06 16:23:26.570 -0600	FAILURE	Screen_Error.png	8 scenarios (2 failed, 6 passed) 24 steps (3 failed, 0 skipped, 21 passed) Execution Time 0:02:42

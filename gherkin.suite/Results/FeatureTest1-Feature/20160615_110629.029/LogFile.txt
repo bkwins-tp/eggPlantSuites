@@ -1,0 +1,28 @@
+﻿2016-06-15 11:06:29.029 -0600	START		Running FeatureTest1.feature
+2016-06-15 11:06:29.029 -0600	LogSuccess		<Name> has a valid Credit or Debit card
+2016-06-15 11:06:29.029 -0600	LogSuccess		their account balance is <OriginalBalance>
+2016-06-15 11:06:29.029 -0600	LogWarning		they insert their card
+2016-06-15 11:06:29.029 -0600	LogWarning		withdraw <WithdrawalAmount>
+2016-06-15 11:06:29.029 -0600	LogWarning		the ATM should retrun <WithdrawalAmount>
+2016-06-15 11:06:29.029 -0600	LogSuccess		their account balance is <NewBalance>
+2016-06-15 11:06:29.029 -0600	LogSuccess		<Name> has a valid Credit or Debit card
+2016-06-15 11:06:29.029 -0600	LogSuccess		their account balance is <OriginalBalance>
+2016-06-15 11:06:29.029 -0600	LogWarning		they insert their card
+2016-06-15 11:06:29.029 -0600	LogWarning		withdraw <WithdrawalAmount>
+2016-06-15 11:06:29.029 -0600	LogWarning		the ATM should retrun <WithdrawalAmount>
+2016-06-15 11:06:29.029 -0600	LogSuccess		their account balance is <NewBalance>
+2016-06-15 11:06:29.029 -0600	LogSuccess		<Name> has a valid Credit or Debit card
+2016-06-15 11:06:29.029 -0600	LogSuccess		their account balance is <OriginalBalance>
+2016-06-15 11:06:29.029 -0600	LogWarning		they insert their card
+2016-06-15 11:06:29.029 -0600	LogWarning		withdraw <WithdrawalAmount>
+2016-06-15 11:06:29.029 -0600	LogWarning		the ATM should retrun <WithdrawalAmount>
+2016-06-15 11:06:29.029 -0600	LogSuccess		their account balance is <NewBalance>
+2016-06-15 11:06:29.029 -0600	LogSuccess		Logged in user is "Mike"
+2016-06-15 11:06:29.029 -0600	LogSuccess		a bunch of stuff
+2016-06-15 11:06:29.029 -0600	LogWarning		something else
+2016-06-15 11:06:29.029 -0600	LogSuccess		enter usernames "Alice", "Bob", and "Charlie"
+2016-06-15 11:06:29.029 -0600	LogSuccess		enter username "Samson" and password "password"
+2016-06-15 11:06:29.029 -0600	LogSuccess		enter username "George" and 1234 as the PIN
+2016-06-15 11:06:29.029 -0600	LogWarning		do the thing
+2016-06-15 11:06:29.029 -0600	EndTestCase		(Duration:"0.209", Errors:"0", Exceptions:"0", StartTime:"2016-06-15 11:06:29 -0600", Successes:"14", TestCase:"FeatureTest1.feature", Warnings:"11")
+2016-06-15 11:06:30.030 -0600	FAILURE	Screen_Error.png	4 scenarios (4 failed, 0 passed) 25 steps (0 failed, 11 skipped, 14 passed) Execution Time 0:00:00

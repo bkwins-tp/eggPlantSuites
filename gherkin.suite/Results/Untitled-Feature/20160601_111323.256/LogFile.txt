@@ -1,0 +1,7 @@
+﻿2016-06-01 11:13:23.256 -0600	START		Running Untitled.feature
+2016-06-01 11:13:23.264 -0600	LogSuccess		login screen is visible
+2016-06-01 11:13:23.265 -0600	LogSuccess		login screen is visible
+2016-06-01 11:13:23.266 -0600	LogWarning		joe is entered
+2016-06-01 11:13:23.266 -0600	LogWarning		login is succesfull
+2016-06-01 11:13:23.268 -0600	EndTestCase		(Duration:"0.00991", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 11:13:23 -0600", Successes:"2", TestCase:"Untitled.feature", Warnings:"2")
+2016-06-01 11:13:23.271 -0600	SUCCESS		Execution Time 0:00:00 Untitled.feature

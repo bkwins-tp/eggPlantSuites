@@ -1,0 +1,10 @@
+﻿2016-06-14 11:08:36.036 -0600	START		Running CalcAppTesting.feature
+2016-06-14 11:08:39.039 -0600	LogError		that the Calculator app is running and in focus
+2016-06-14 11:08:39.039 -0600	LogError		there is no current value in the calculator
+2016-06-14 11:08:39.039 -0600	LogError		I enter the first number in the calculator
+2016-06-14 11:08:39.039 -0600	LogError		I click the plus button ok
+2016-06-14 11:08:39.039 -0600	LogWarning		I enter the second number ok
+2016-06-14 11:08:39.039 -0600	LogWarning		I click the equals button
+2016-06-14 11:08:39.039 -0600	LogWarning		the value displayed should be the correct sum for the two numbers entered
+2016-06-14 11:08:39.039 -0600	EndTestCase		(Duration:"2.421", Errors:"5", Exceptions:"0", StartTime:"2016-06-14 11:08:36 -0600", Successes:"0", TestCase:"CalcAppTesting.feature", Warnings:"3")
+2016-06-14 11:08:39.039 -0600	ABORTED		Execution Time 0:00:03 CalcAppTesting.feature

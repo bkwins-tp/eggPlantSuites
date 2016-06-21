@@ -1,0 +1,21 @@
+﻿2016-06-01 14:29:43.640 -0600	START		Running BobTest1.feature
+2016-06-01 14:29:43.647 -0600	LogWarning		<Name> has a valid Credit or Debit card
+2016-06-01 14:29:43.647 -0600	LogWarning		their account balance is <OriginalBalance>
+2016-06-01 14:29:43.648 -0600	LogWarning		they insert their card
+2016-06-01 14:29:43.649 -0600	LogWarning		withdraw <WithdrawalAmount>
+2016-06-01 14:29:43.649 -0600	LogWarning		the ATM should return <WithdrawalAmount>
+2016-06-01 14:29:43.650 -0600	LogWarning		their account balance is <NewBalance>
+2016-06-01 14:29:43.650 -0600	LogWarning		<Name> has a valid Credit or Debit card
+2016-06-01 14:29:43.651 -0600	LogWarning		their account balance is <OriginalBalance>
+2016-06-01 14:29:43.651 -0600	LogWarning		they insert their card
+2016-06-01 14:29:43.652 -0600	LogWarning		withdraw <WithdrawalAmount>
+2016-06-01 14:29:43.652 -0600	LogWarning		the ATM should return <WithdrawalAmount>
+2016-06-01 14:29:43.653 -0600	LogWarning		their account balance is <NewBalance>
+2016-06-01 14:29:43.653 -0600	LogWarning		<Name> has a valid Credit or Debit card
+2016-06-01 14:29:43.654 -0600	LogWarning		their account balance is <OriginalBalance>
+2016-06-01 14:29:43.655 -0600	LogWarning		they insert their card
+2016-06-01 14:29:43.656 -0600	LogWarning		withdraw <WithdrawalAmount>
+2016-06-01 14:29:43.656 -0600	LogWarning		the ATM should return <WithdrawalAmount>
+2016-06-01 14:29:43.657 -0600	LogWarning		their account balance is <NewBalance>
+2016-06-01 14:29:43.658 -0600	EndTestCase		(Duration:"0.01655", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 14:29:43 -0600", Successes:"1", TestCase:"BobTest1.feature", Warnings:"18")
+2016-06-01 14:29:43.661 -0600	SUCCESS		Execution Time 0:00:00 BobTest1.feature

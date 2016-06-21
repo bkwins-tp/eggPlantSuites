@@ -1,0 +1,10 @@
+﻿2016-06-15 14:41:18.018 -0600	START		Running CalcAppTesting.feature
+2016-06-15 14:41:18.018 -0600	LogWarning		that the Calculator app is running and in focus
+2016-06-15 14:41:18.018 -0600	LogWarning		there is no current value in the calculator
+2016-06-15 14:41:18.018 -0600	LogWarning		you enter the first number in the calculator
+2016-06-15 14:41:18.018 -0600	LogWarning		you click the plus button
+2016-06-15 14:41:18.018 -0600	LogWarning		you enter the second number
+2016-06-15 14:41:18.018 -0600	LogWarning		you click the equals button
+2016-06-15 14:41:18.018 -0600	LogWarning		the value displayed should be the correct sum for the two numbers entered
+2016-06-15 14:41:18.018 -0600	EndTestCase		(Duration:"0.144", Errors:"0", Exceptions:"0", StartTime:"2016-06-15 14:41:18 -0600", Successes:"1", TestCase:"CalcAppTesting.feature", Warnings:"7")
+2016-06-15 14:41:18.018 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 7 steps (0 failed, 7 skipped, 0 passed) Execution Time 0:00:00

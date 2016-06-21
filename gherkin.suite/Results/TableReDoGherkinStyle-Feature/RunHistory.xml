@@ -1,0 +1,478 @@
+﻿<?xml version="1.0"?>
+<runHistory script="TableReDoGherkinStyle-Feature">
+ <run>
+  <RunDate>2016-06-06 11:43:04.269 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>15</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160606_114304.269/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 11:43:36.368 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>15</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160606_114336.368/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 11:43:37.867 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>15</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160606_114337.867/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 12:21:57.737 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>6.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20160606_122157.737/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 12:22:17.941 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>13</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20160606_122217.941/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 12:22:58.252 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>13</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20160606_122258.252/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 12:31:18.745 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.000000</Duration>
+  <Errors>4</Errors>
+  <Warnings>11</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20160606_123118.745/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in the_chrome_browser_is_open:
+Warning at line 3: Warning - Non-matching handler name: The_Chrome_browser_opens</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 12:31:29.574 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.000000</Duration>
+  <Errors>4</Errors>
+  <Warnings>11</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20160606_123129.574/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in the_chrome_browser_is_open:
+Warning at line 3: Warning - Non-matching handler name: The_Chrome_browser_opens</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 12:35:56.866 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>5.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>11</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20160606_123556.866/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 12:36:07.561 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>6.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>11</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20160606_123607.561/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 12:51:41.567 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>9.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>9</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>12</Successes>
+  <LogFile>20160606_125141.567/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 13:29:43.877 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>9.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>10</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>10</Successes>
+  <LogFile>20160606_132943.877/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 13:29:59.755 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_132959.755/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 13:30:45.955 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>9</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>12</Successes>
+  <LogFile>20160606_133045.955/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 13:41:36.853 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>8</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>14</Successes>
+  <LogFile>20160606_134136.853/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 13:54:47.772 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_135447.772/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 13:55:31.287 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.000000</Duration>
+  <Errors>3</Errors>
+  <Warnings>6</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>16</Successes>
+  <LogFile>20160606_135531.287/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in a_listing_for_the_search_item_appears:
+Syntax Error at line 5: Syntax Error - can&#x27;t understand &quot;A_listing_for_the_search_item_appears&quot; at or near character 148</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 13:59:25.567 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.000000</Duration>
+  <Errors>3</Errors>
+  <Warnings>6</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>16</Successes>
+  <LogFile>20160606_135925.567/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in a_listing_for_the_search_item_appears:
+Syntax Error at line 5: Syntax Error - can&#x27;t understand &quot;A_listing_for_the_search_item_appears&quot; at or near character 148</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 14:01:58.093 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_140158.093/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 14:03:24.158 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_140324.158/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 14:24:15.710 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_142415.710/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 14:26:37.271 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>14.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>20</Successes>
+  <LogFile>20160606_142637.271/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 14:30:23.291 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>17.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>20</Successes>
+  <LogFile>20160606_143023.291/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 14:32:14.277 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>22.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>4</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>22</Successes>
+  <LogFile>20160606_143214.277/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 14:34:21.932 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>23.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>24</Successes>
+  <LogFile>20160606_143421.932/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 14:57:06.854 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_145706.854/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 14:57:42.436 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>165.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>26</Successes>
+  <LogFile>20160606_145742.436/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 15:06:17.266 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>163.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>30</Successes>
+  <LogFile>20160606_150617.266/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 15:09:58.140 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>20.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>30</Successes>
+  <LogFile>20160606_150958.140/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 15:30:11.628 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_153011.628/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 15:33:01.582 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_153301.582/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 16:20:44.197 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>162.000000</Duration>
+  <Errors>5</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>3</Exceptions>
+  <Successes>45</Successes>
+  <LogFile>20160606_162044.197/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;ChromeCloseX&quot;  Restricted Search Rectangle ((277,162),(927,230))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 16:23:50.845 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_162350.845/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 16:31:22.990 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>265.000000</Duration>
+  <Errors>5</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>3</Exceptions>
+  <Successes>45</Successes>
+  <LogFile>20160606_163122.990/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Retrieving Frame Buffer:Conection to server was lost while trying to sync
+Win2Enviro
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-08 16:53:42.042 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.000000</Duration>
+  <Errors>22</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>21</Exceptions>
+  <Successes>27</Successes>
+  <LogFile>20160608_165342.042/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-08 16:57:56.056 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.000000</Duration>
+  <Errors>22</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>21</Exceptions>
+  <Successes>27</Successes>
+  <LogFile>20160608_165756.056/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-08 16:58:04.004 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.000000</Duration>
+  <Errors>22</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>21</Exceptions>
+  <Successes>27</Successes>
+  <LogFile>20160608_165804.004/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-08 16:58:13.013 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.000000</Duration>
+  <Errors>22</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>21</Exceptions>
+  <Successes>27</Successes>
+  <LogFile>20160608_165813.013/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-08 16:59:26.026 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.000000</Duration>
+  <Errors>22</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>21</Exceptions>
+  <Successes>27</Successes>
+  <LogFile>20160608_165926.026/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,10 @@
+﻿2016-06-06 12:21:57.737 -0600	START		Running TableReDoGherkinStyle.feature
+2016-06-06 12:21:57.751 -0600	LogWarning		the SUT is in its initial state, showing the desktop
+2016-06-06 12:21:58.801 -0600	click	ChromeIconToolbar	at (275, 821)	2	on_i_click_the_chrome_browser_icon	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 12:21:58.802 -0600	LogSuccess		I click the Chrome browser icon
+2016-06-06 12:21:58.802 -0600	LogSuccess		I click the Chrome browser icon
+2016-06-06 12:22:04.392 -0600	waitfor	ChromeReloadButton	found at (172, 62)	2	on_the_chrome_browser_opens	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 12:22:04.394 -0600	LogSuccess		The Chrome browser opens
+2016-06-06 12:22:04.395 -0600	LogSuccess		The Chrome browser opens
+2016-06-06 12:22:04.398 -0600	EndTestCase		(Duration:"6.657823", Errors:"0", Exceptions:"0", StartTime:"2016-06-06 12:21:57 -0600", Successes:"4", TestCase:"TableReDoGherkinStyle.feature", Warnings:"1")
+2016-06-06 12:22:04.530 -0600	FAILURE	Screen_Error.png	1 scenarios (1 failed, 0 passed) 3 steps (0 failed, 1 skipped, 2 passed) Execution Time 0:00:06

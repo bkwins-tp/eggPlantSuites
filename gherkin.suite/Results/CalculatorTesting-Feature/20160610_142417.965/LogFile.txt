@@ -1,0 +1,34 @@
+﻿2016-06-10 14:24:17.966 -0600	START		Running CalculatorTesting.feature
+2016-06-10 14:24:21.915 -0600	imagefound	Calculator	Unable to Find Image Calculator	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 14:24:22.389 -0600	click	WindowsButton	at (24, 808)	3	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 14:24:23.225 -0600	typetext		calculator[return]	4	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 14:24:23.226 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 14:24:23.227 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 14:24:24.156 -0600	click	CalcClearButton	at (652, 393)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 14:24:24.157 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 14:24:24.159 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 14:24:24.881 -0600	typetext		4[return]	3	on_i_enter_num___num_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 14:24:24.883 -0600	LogSuccess		I enter 2 + 2 in the calculator
+2016-06-10 14:24:24.885 -0600	LogSuccess		I enter 2 + 2 in the calculator
+2016-06-10 14:24:26.417 -0600	readtext		(554,289,750,345)
+2016-06-10 14:24:26.419 -0600	LogSuccess		value is correct	6	on_the_value_returned_should_be_4	CalculatorTesting.script<SOURCE>
+2016-06-10 14:24:26.421 -0600	LogSuccess		the value returned should be 4
+2016-06-10 14:24:26.422 -0600	LogSuccess		the value returned should be 4
+2016-06-10 14:24:26.797 -0600	imagefound	Calculator	found at (588, 249)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 14:24:26.884 -0600	click		at (588, 249)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 14:24:26.885 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 14:24:26.886 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 14:24:28.196 -0600	click	CalcClearButton	at (652, 393)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 14:24:28.198 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 14:24:28.198 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 14:24:28.926 -0600	typetext		6[return]	3	on_i_enter_num_minus_num_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 14:24:28.927 -0600	LogSuccess		I enter 10 minus 4 in the calculator
+2016-06-10 14:24:28.928 -0600	LogSuccess		I enter 10 minus 4 in the calculator
+2016-06-10 14:24:30.396 -0600	readtext		(554,289,750,345)
+2016-06-10 14:24:30.739 -0600	readtext		(554,289,750,345)
+2016-06-10 14:24:30.740 -0600	Log		6	3	on_the_value_returned_should_be_6	CalculatorTesting.script<SOURCE>
+2016-06-10 14:24:30.744 -0600	LogSuccess		value is correct	5	on_the_value_returned_should_be_6	CalculatorTesting.script<SOURCE>
+2016-06-10 14:24:30.746 -0600	LogSuccess		the value returned should be 6
+2016-06-10 14:24:30.748 -0600	LogSuccess		the value returned should be 6
+2016-06-10 14:24:30.750 -0600	EndTestCase		(Duration:"12.782082", Errors:"0", Exceptions:"0", StartTime:"2016-06-10 14:24:17 -0600", Successes:"18", TestCase:"CalculatorTesting.feature", Warnings:"0")
+2016-06-10 14:24:30.817 -0600	SUCCESS		2 scenarios (0 failed, 2 passed) 8 steps (0 failed, 0 skipped, 8 passed) Execution Time 0:00:12

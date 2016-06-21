@@ -1,0 +1,42 @@
+﻿
+to handle VAR_has_a_valid_Credit_or_Debit_card
+	params Name
+	
+end VAR_has_a_valid_Credit_or_Debit_card
+
+to handle their_account_balance_is_VAR
+	params OriginalBalance
+	
+end their_account_balance_is_VAR
+
+to handle a_bunch_of_stuff
+	params 
+	
+end a_bunch_of_stuff
+
+to handle Logged_in_user_is_STR
+	params str1
+	
+end Logged_in_user_is_STR
+
+to handle enter_usernames_STR__STR__and_STR
+	params str1, str2, str3
+	
+end enter_usernames_STR__STR__and_STR
+
+to handle enter_username_STR_and_password_STR
+	params str1, str2
+	
+end enter_username_STR_and_password_STR
+
+to handle enter_username_STR_and_pin__1234
+	params str1
+	
+end enter_username_STR_and_pin__1234
+
+to handle enter_username_STR_and_NUM_as_the_pin
+	params str1, num1
+	
+end enter_username_STR_and_NUM_as_the_pin
+
+log handlerNames of BobTest1

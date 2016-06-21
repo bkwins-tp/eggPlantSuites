@@ -1,0 +1,12 @@
+﻿2016-06-14 11:10:56.056 -0600	START		Running CalcAppTesting.feature
+2016-06-14 11:10:56.056 -0600	imagefound	Calculator	found at (720, 175)	2	on_that_the_calculator_app_is_running_and_in_focus	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-14 11:10:56.056 -0600	click		at (720, 175)	6	on_that_the_calculator_app_is_running_and_in_focus	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-14 11:10:56.056 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-14 11:10:57.057 -0600	LogError		there is no current value in the calculator
+2016-06-14 11:10:57.057 -0600	LogError		I enter the first number in the calculator
+2016-06-14 11:10:57.057 -0600	LogError		I click the plus button ok
+2016-06-14 11:10:57.057 -0600	LogWarning		I enter the second number ok
+2016-06-14 11:10:57.057 -0600	LogWarning		I click the equals button
+2016-06-14 11:10:57.057 -0600	LogWarning		the value displayed should be the correct sum for the two numbers entered
+2016-06-14 11:10:57.057 -0600	EndTestCase		(Duration:"1.437", Errors:"4", Exceptions:"0", StartTime:"2016-06-14 11:10:56 -0600", Successes:"1", TestCase:"CalcAppTesting.feature", Warnings:"3")
+2016-06-14 11:10:57.057 -0600	ABORTED		Execution Time 0:00:01 CalcAppTesting.feature

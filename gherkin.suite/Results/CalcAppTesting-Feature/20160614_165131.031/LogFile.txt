@@ -1,0 +1,4 @@
+﻿2016-06-14 16:51:31.031 -0600	START		Running CalcAppTesting.feature
+2016-06-14 16:51:31.031 -0600	LogWarning		there is no current value in the calculator
+2016-06-14 16:51:31.031 -0600	EndTestCase		(Duration:"0.114", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 16:51:31 -0600", Successes:"1", TestCase:"CalcAppTesting.feature", Warnings:"1")
+2016-06-14 16:51:31.031 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 1 steps (0 failed, 1 skipped, 0 passed) Execution Time 0:00:00

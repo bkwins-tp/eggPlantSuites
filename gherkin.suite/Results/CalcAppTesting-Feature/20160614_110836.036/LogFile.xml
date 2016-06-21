@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CalcAppTesting.feature" package="gherkin.suite" timestamp="2016-06-14 11:08:36.036 -0600"
+ tests="1" successes="(null)" errors="(null)" time="0.000000">
+  <properties>
+   <property name="RunDate" value="2016-06-14 11:08:36.036 -0600"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="CalcAppTesting.feature" assertions="5" successes="0" errors="5" time="2.421">
+    <failure type="LogError">that the Calculator app is running and in focus</failure>
+    <failure type="LogError">there is no current value in the calculator</failure>
+    <failure type="LogError">I enter the first number in the calculator</failure>
+    <failure type="LogError">I click the plus button ok</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

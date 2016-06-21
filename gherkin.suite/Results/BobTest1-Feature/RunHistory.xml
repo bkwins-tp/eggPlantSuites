@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<runHistory script="BobTest1-Feature">
+ <run>
+  <RunDate>2016-06-13 16:00:54.054 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20160613_160054.054/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-13 16:01:04.004 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20160613_160104.004/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-13 16:01:13.013 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>11</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>20</Successes>
+  <LogFile>20160613_160113.013/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-13 16:30:56.056 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>12</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>26</Successes>
+  <LogFile>20160613_163056.056/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

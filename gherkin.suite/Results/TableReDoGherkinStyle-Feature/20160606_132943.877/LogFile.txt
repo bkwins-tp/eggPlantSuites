@@ -1,0 +1,28 @@
+﻿2016-06-06 13:29:43.877 -0600	START		Running TableReDoGherkinStyle.feature
+2016-06-06 13:29:43.890 -0600	LogWarning		the SUT is in its initial state, showing the desktop
+2016-06-06 13:29:44.477 -0600	click	ChromeIconToolbar	at (275, 821)	2	on_i_click_the_chrome_browser_icon	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 13:29:44.478 -0600	LogSuccess		I click the Chrome browser icon
+2016-06-06 13:29:44.479 -0600	LogSuccess		I click the Chrome browser icon
+2016-06-06 13:29:44.599 -0600	waitfor	ChromeReloadButton	found at (172, 62)	2	on_the_chrome_browser_is_open	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 13:29:44.600 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 13:29:44.601 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 13:29:52.832 -0600	waitfor	ChromeReloadButton	found at (172, 62)	2	on_the_chrome_browser_is_open	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 13:29:52.833 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 13:29:52.835 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 13:29:52.836 -0600	LogWarning		I enter a website address in the address bar
+2016-06-06 13:29:52.956 -0600	waitfor	WikipediaLogoText	found at (183, 217)	2	on_the_browser_loads_the_web_page_i_entered	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 13:29:52.958 -0600	LogSuccess		the browser loads the web page I entered
+2016-06-06 13:29:52.959 -0600	LogSuccess		the browser loads the web page I entered
+2016-06-06 13:29:52.961 -0600	LogWarning		The correct web page is loaded
+2016-06-06 13:29:52.962 -0600	LogWarning		I enter a search term in the page's search field
+2016-06-06 13:29:52.963 -0600	LogWarning		A listing for the search item appears
+2016-06-06 13:29:52.965 -0600	LogWarning		The page I searched for has loaded
+2016-06-06 13:29:52.966 -0600	LogWarning		I verify by searching text for the verification word(s)
+2016-06-06 13:29:52.967 -0600	LogWarning		The words will be found in the text of the page
+2016-06-06 13:29:53.065 -0600	waitfor	ChromeReloadButton	found at (172, 62)	2	on_the_chrome_browser_is_open	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 13:29:53.066 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 13:29:53.067 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 13:29:53.068 -0600	LogWarning		I click the close icon on the browser bar
+2016-06-06 13:29:53.071 -0600	LogWarning		The browser closes, returning the SUT to its initial state
+2016-06-06 13:29:53.073 -0600	EndTestCase		(Duration:"9.19317", Errors:"0", Exceptions:"0", StartTime:"2016-06-06 13:29:43 -0600", Successes:"10", TestCase:"TableReDoGherkinStyle.feature", Warnings:"10")
+2016-06-06 13:29:53.305 -0600	FAILURE	Screen_Error.png	5 scenarios (5 failed, 0 passed) 15 steps (0 failed, 10 skipped, 5 passed) Execution Time 0:00:09

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CalcAppTesting.feature" package="gherkin.suite" timestamp="2016-06-14 11:10:12.012 -0600"
+ tests="1" successes="4" errors="0" time="7.575000">
+  <properties>
+   <property name="RunDate" value="2016-06-14 11:10:12.012 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="CalcAppTesting.feature" assertions="4" successes="4" errors="0" time="7.558">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,10 @@
+﻿2016-06-10 11:18:01.399 -0600	START		Running CalculatorTesting.feature
+2016-06-10 11:18:09.790 -0600	imagefound	Calculator	Unable to Find Image Calculator	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 11:18:11.317 -0600	LogError		that the Calculator app is running and in focus
+2016-06-10 11:18:11.318 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 11:18:11.319 -0600	LogError		there is no current value in the calculator
+2016-06-10 11:18:11.320 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 11:18:11.320 -0600	LogWarning		I enter 2 + 2 in the calculator
+2016-06-10 11:18:11.321 -0600	LogWarning		the value returned should be 4
+2016-06-10 11:18:11.322 -0600	EndTestCase		(Duration:"9.921152", Errors:"3", Exceptions:"0", StartTime:"2016-06-10 11:18:01 -0600", Successes:"2", TestCase:"CalculatorTesting.feature", Warnings:"2")
+2016-06-10 11:18:11.322 -0600	ABORTED		Execution Time 0:00:09 CalculatorTesting.feature

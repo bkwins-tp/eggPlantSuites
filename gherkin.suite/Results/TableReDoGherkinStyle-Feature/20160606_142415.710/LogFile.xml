@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="TableReDoGherkinStyle.feature" package="gherkin.suite" timestamp="2016-06-06 14:24:15.710 -0600"
+ tests="1" successes="(null)" errors="(null)" time="0.000000">
+  <properties>
+   <property name="RunDate" value="2016-06-06 14:24:15.710 -0600"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="TableReDoGherkinStyle.feature" assertions="21" successes="18" errors="3" time="54.765171">
+    <failure type="LogError">A listing for the search item appears</failure>
+    <failure type="LogError">The Chrome browser is open</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

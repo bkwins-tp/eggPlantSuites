@@ -1,0 +1,34 @@
+﻿2016-06-13 16:01:13.013 -0600	START		Running BobTest1.feature
+2016-06-13 16:01:13.013 -0600	LogSuccess		<Name> has a valid Credit or Debit card
+2016-06-13 16:01:13.013 -0600	LogSuccess		<Name> has a valid Credit or Debit card
+2016-06-13 16:01:13.013 -0600	LogSuccess		their account balance is <OriginalBalance>
+2016-06-13 16:01:13.013 -0600	LogSuccess		their account balance is <OriginalBalance>
+2016-06-13 16:01:13.013 -0600	LogWarning		they insert their card
+2016-06-13 16:01:13.013 -0600	LogWarning		withdraw <WithdrawalAmount>
+2016-06-13 16:01:13.013 -0600	LogWarning		the ATM should retrun <WithdrawalAmount>
+2016-06-13 16:01:13.013 -0600	LogSuccess		their account balance is <NewBalance>
+2016-06-13 16:01:13.013 -0600	LogSuccess		their account balance is <NewBalance>
+2016-06-13 16:01:13.013 -0600	LogSuccess		<Name> has a valid Credit or Debit card
+2016-06-13 16:01:13.013 -0600	LogSuccess		<Name> has a valid Credit or Debit card
+2016-06-13 16:01:13.013 -0600	LogSuccess		their account balance is <OriginalBalance>
+2016-06-13 16:01:13.013 -0600	LogSuccess		their account balance is <OriginalBalance>
+2016-06-13 16:01:14.014 -0600	LogWarning		they insert their card
+2016-06-13 16:01:14.014 -0600	LogWarning		withdraw <WithdrawalAmount>
+2016-06-13 16:01:14.014 -0600	LogWarning		the ATM should retrun <WithdrawalAmount>
+2016-06-13 16:01:14.014 -0600	LogSuccess		their account balance is <NewBalance>
+2016-06-13 16:01:14.014 -0600	LogSuccess		their account balance is <NewBalance>
+2016-06-13 16:01:14.014 -0600	LogSuccess		<Name> has a valid Credit or Debit card
+2016-06-13 16:01:14.014 -0600	LogSuccess		<Name> has a valid Credit or Debit card
+2016-06-13 16:01:14.014 -0600	LogSuccess		their account balance is <OriginalBalance>
+2016-06-13 16:01:14.014 -0600	LogSuccess		their account balance is <OriginalBalance>
+2016-06-13 16:01:14.014 -0600	LogWarning		they insert their card
+2016-06-13 16:01:14.014 -0600	LogWarning		withdraw <WithdrawalAmount>
+2016-06-13 16:01:14.014 -0600	LogWarning		the ATM should retrun <WithdrawalAmount>
+2016-06-13 16:01:14.014 -0600	LogSuccess		their account balance is <NewBalance>
+2016-06-13 16:01:14.014 -0600	LogSuccess		their account balance is <NewBalance>
+2016-06-13 16:01:14.014 -0600	LogSuccess		a bunch of stuff
+2016-06-13 16:01:14.014 -0600	LogSuccess		a bunch of stuff
+2016-06-13 16:01:14.014 -0600	LogWarning		something else
+2016-06-13 16:01:14.014 -0600	LogWarning		do the thing
+2016-06-13 16:01:14.014 -0600	EndTestCase		(Duration:"0.36", Errors:"0", Exceptions:"0", StartTime:"2016-06-13 16:01:13 -0600", Successes:"20", TestCase:"BobTest1.feature", Warnings:"11")
+2016-06-13 16:01:14.014 -0600	FAILURE	Screen_Error.png	4 scenarios (4 failed, 0 passed) 21 steps (0 failed, 11 skipped, 10 passed) Execution Time 0:00:01

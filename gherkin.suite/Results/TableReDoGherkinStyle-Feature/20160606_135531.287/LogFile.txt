@@ -1,0 +1,35 @@
+﻿2016-06-06 13:55:31.288 -0600	START		Running TableReDoGherkinStyle.feature
+2016-06-06 13:55:31.303 -0600	LogWarning		the SUT is in its initial state, showing the desktop
+2016-06-06 13:55:31.834 -0600	click	ChromeIconToolbar	at (275, 821)	2	on_i_click_the_chrome_browser_icon	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 13:55:31.836 -0600	LogSuccess		I click the Chrome browser icon
+2016-06-06 13:55:31.837 -0600	LogSuccess		I click the Chrome browser icon
+2016-06-06 13:55:36.960 -0600	waitfor	ChromeReloadButton	found at (172, 62)	2	on_the_chrome_browser_is_open	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 13:55:36.961 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 13:55:36.962 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 13:55:37.069 -0600	waitfor	ChromeReloadButton	found at (172, 62)	2	on_the_chrome_browser_is_open	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 13:55:37.070 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 13:55:37.070 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 13:55:37.587 -0600	click	ChromeEnterAddressBar	at (228, 65)	2	on_i_enter_a_website_address_in_the_browser_bar	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 13:55:38.797 -0600	typetext		https://en.wikipedia.org/wiki/Main_Page[return]	3	on_i_enter_a_website_address_in_the_browser_bar	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 13:55:38.798 -0600	LogSuccess		I enter a website address in the browser bar
+2016-06-06 13:55:38.799 -0600	LogSuccess		I enter a website address in the browser bar
+2016-06-06 13:55:41.361 -0600	waitfor	WikipediaLogoText	found at (183, 217)	2	on_the_browser_shows_the_correct_web_page	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 13:55:41.362 -0600	LogSuccess		the browser shows the correct web page
+2016-06-06 13:55:41.363 -0600	LogSuccess		the browser shows the correct web page
+2016-06-06 13:55:41.475 -0600	waitfor	WikipediaLogoText	found at (183, 217)	2	on_the_browser_shows_the_correct_web_page	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 13:55:41.477 -0600	LogSuccess		the browser shows the correct web page
+2016-06-06 13:55:41.478 -0600	LogSuccess		the browser shows the correct web page
+2016-06-06 13:55:41.479 -0600	LogWarning		I enter a search term in the page's search field
+2016-06-06 13:55:41.480 -0600	LogError		A listing for the search item appears
+2016-06-06 13:55:41.481 -0600	LogSuccess		A listing for the search item appears
+2016-06-06 13:55:41.482 -0600	LogError		A listing for the search item appears
+2016-06-06 13:55:41.483 -0600	LogSuccess		A listing for the search item appears
+2016-06-06 13:55:41.484 -0600	LogWarning		I verify by searching text for the verification word(s)
+2016-06-06 13:55:41.485 -0600	LogWarning		The words will be found in the text of the page
+2016-06-06 13:55:41.952 -0600	waitfor	ChromeReloadButton	found at (172, 62)	2	on_the_chrome_browser_is_open	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 13:55:41.954 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 13:55:41.955 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 13:55:41.956 -0600	LogWarning		I click the close icon on the browser bar
+2016-06-06 13:55:41.956 -0600	LogWarning		The browser closes, returning the SUT to its initial state
+2016-06-06 13:55:41.958 -0600	EndTestCase		(Duration:"10.667499", Errors:"3", Exceptions:"0", StartTime:"2016-06-06 13:55:31 -0600", Successes:"16", TestCase:"TableReDoGherkinStyle.feature", Warnings:"6")
+2016-06-06 13:55:42.539 -0600	FAILURE	Screen_Error.png	5 scenarios (4 failed, 1 passed) 15 steps (2 failed, 6 skipped, 7 passed) Execution Time 0:00:10

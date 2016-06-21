@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="TableReDoGherkinStyle.feature" package="gherkin.suite" timestamp="2016-06-06 15:06:17.266 -0600"
+ tests="1" successes="30" errors="1" time="163.912894">
+  <properties>
+   <property name="RunDate" value="2016-06-06 15:06:17.266 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="TableReDoGherkinStyle.feature" assertions="31" successes="30" errors="1" time="163.911375">
+    <failure type="LogError">Not found :( </failure>
+  </testcase>
+ </testsuite>
+</testsuites>

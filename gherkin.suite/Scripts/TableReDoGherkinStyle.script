@@ -1,0 +1,78 @@
+﻿
+to handle the_SUT_is_in_its_initial_state,_showing_the_desktop
+(* create complicated script to ensure no apps are running and system is showing the desktop. Or something like that. *)
+put "it's good."
+end the_SUT_is_in_its_initial_state,_showing_the_desktop
+
+to handle I_click_the_Chrome_browser_icon
+	Click "ChromeIconToolbar"
+end I_click_the_Chrome_browser_icon
+
+
+to handle The_Chrome_browser_is_open
+	WaitFor 10, "ChromeReloadButton"
+	
+end The_Chrome_browser_is_open
+
+to handle I_enter_a_website_address_in_the_browser_bar
+	Click "ChromeEnterAddressBar"
+	TypeText "https://en.wikipedia.org/wiki/Main_Page",Return
+	
+end I_enter_a_website_address_in_the_browser_bar
+
+to handle the_browser_shows_the_correct_web_page
+	waitfor 10, "WikipediaLogoText"
+end the_browser_shows_the_correct_web_page
+
+to handle A_listing_for_the_search_item_appears
+	Set the SearchRectangle to ("WikiArticleTitleBar_A","WikiArticleTitleBar_B")
+	Click (Text:"Yellowstone")
+	Set the SearchRectangle to empty
+	
+end A_listing_for_the_search_item_appears
+
+to handle I_enter_a_search_term_in_the_page_search_field
+	Click (Image:"WikiSearchIcon", WaitFor:10)
+	TypeText "Yellowstone",Return	
+end I_enter_a_search_term_in_the_page_search_field
+
+to handle I_verify_by_searching_text_for_the_verification_words
+	If ImageFound(Text: "national park")
+	then
+		log "Found! "
+	else
+		LogError "Not found :( "
+	end if
+end I_verify_by_searching_text_for_the_verification_words
+
+to handle the_SUT_is_in_its_initial_state_showing_the_desktop
+	(* create complicated script to ensure no apps are running and system is showing the desktop. Or something like that. *)
+	put "it's good."
+end the_SUT_is_in_its_initial_state_showing_the_desktop
+
+to handle The_words_will_be_found_in_the_text_of_the_page
+	put "blah"
+end The_words_will_be_found_in_the_text_of_the_page
+
+to handle I_click_the_close_icon_on_the_browser_bar
+	Click "ChromeCloseX"
+	
+end I_click_the_close_icon_on_the_browser_bar
+
+to handle The_browser_closes_returning_the_SUT_to_its_initial_state
+	put "we're done and reset"
+	log "we're done, reset, and ready to go again!"
+end The_browser_closes_returning_the_SUT_to_its_initial_state
+
+to handle I_enter_a_VAR_in_the_page_search_field
+	params searchterm
+	Click (Image:"WikiSearchIcon", WaitFor:10)
+	TypeText searchterm,Return	
+end I_enter_a_VAR_in_the_page_search_field
+
+to handle A_listing_for_the_VAR_item_appears
+	params searchterm
+	Set the SearchRectangle to ("WikiArticleTitleBar_A","WikiArticleTitleBar_B")
+	Click (Text:searchterm)
+	Set the SearchRectangle to empty
+end A_listing_for_the_VAR_item_appears

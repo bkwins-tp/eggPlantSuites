@@ -1,0 +1,7 @@
+﻿2016-06-13 16:00:54.054 -0600	START		Running BobTest1.feature
+2016-06-13 16:00:54.054 -0600	LogSuccess		a bunch of stuff
+2016-06-13 16:00:54.054 -0600	LogSuccess		a bunch of stuff
+2016-06-13 16:00:54.054 -0600	LogWarning		something else
+2016-06-13 16:00:54.054 -0600	LogWarning		do the thing
+2016-06-13 16:00:54.054 -0600	EndTestCase		(Duration:"0.206", Errors:"0", Exceptions:"0", StartTime:"2016-06-13 16:00:54 -0600", Successes:"2", TestCase:"BobTest1.feature", Warnings:"2")
+2016-06-13 16:00:54.054 -0600	FAILURE	Screen_Error.png	1 scenarios (1 failed, 0 passed) 3 steps (0 failed, 2 skipped, 1 passed) Execution Time 0:00:00

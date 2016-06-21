@@ -1,0 +1,3 @@
+﻿to handle login_screen_is_visible
+	throw something
+end login_screen_is_visible

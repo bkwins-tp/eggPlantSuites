@@ -1,0 +1,18 @@
+﻿2016-06-06 11:43:36.368 -0600	START		Running TableReDoGherkinStyle.feature
+2016-06-06 11:43:36.379 -0600	LogWarning		the SUT is in its initial state, showing the desktop
+2016-06-06 11:43:36.380 -0600	LogWarning		I click the Chrome browser icon
+2016-06-06 11:43:36.382 -0600	LogWarning		The Chrome browser opens
+2016-06-06 11:43:36.383 -0600	LogWarning		The Chrome browser is launched
+2016-06-06 11:43:36.384 -0600	LogWarning		I enter a website address in the browser bar
+2016-06-06 11:43:36.385 -0600	LogWarning		the browser loads the web page I entered
+2016-06-06 11:43:36.387 -0600	LogWarning		The correct web page is loaded
+2016-06-06 11:43:36.388 -0600	LogWarning		I enter a search term in the page's search field
+2016-06-06 11:43:36.389 -0600	LogWarning		A listing for the search item appears
+2016-06-06 11:43:36.390 -0600	LogWarning		The page I searched for has loaded
+2016-06-06 11:43:36.391 -0600	LogWarning		I verify by searching text for the verification word(s)
+2016-06-06 11:43:36.392 -0600	LogWarning		The words will be found in the text of the page
+2016-06-06 11:43:36.393 -0600	LogWarning		The Chrome browser is open
+2016-06-06 11:43:36.394 -0600	LogWarning		I click the close icon on the browser bar
+2016-06-06 11:43:36.395 -0600	LogWarning		The browser closes, returning the SUT to its initial state
+2016-06-06 11:43:36.396 -0600	EndTestCase		(Duration:"0.026327", Errors:"0", Exceptions:"0", StartTime:"2016-06-06 11:43:36 -0600", Successes:"1", TestCase:"TableReDoGherkinStyle.feature", Warnings:"15")
+2016-06-06 11:43:36.401 -0600	FAILURE		5 scenarios (5 failed, 0 passed) 15 steps (0 failed, 15 skipped, 0 passed) Execution Time 0:00:00

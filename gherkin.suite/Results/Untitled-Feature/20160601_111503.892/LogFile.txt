@@ -1,0 +1,9 @@
+﻿2016-06-01 11:15:03.892 -0600	START		Running Untitled.feature
+2016-06-01 11:15:03.901 -0600	Throw		something - (no reason given)	2	on_login_screen_is_visible	common.script<SOURCE>
+2016-06-01 11:15:03.903 -0600	LogError		login screen is visible
+2016-06-01 11:15:03.903 -0600	LogSuccess		login screen is visible
+2016-06-01 11:15:03.905 -0600	LogSuccess		joe is entered
+2016-06-01 11:15:03.905 -0600	LogSuccess		joe is entered
+2016-06-01 11:15:03.906 -0600	LogWarning		login is succesfull
+2016-06-01 11:15:03.908 -0600	EndTestCase		(Duration:"0.01369", Errors:"2", Exceptions:"1", StartTime:"2016-06-01 11:15:03 -0600", Successes:"3", TestCase:"Untitled.feature", Warnings:"1")
+2016-06-01 11:15:03.912 -0600	FAILURE		something (no reason given) -- Execution Time 0:00:00 Untitled.feature

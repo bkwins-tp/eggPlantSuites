@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="TableReDoGherkinStyle.feature" package="gherkin.suite" timestamp="2016-06-06 14:30:23.291 -0600"
+ tests="1" successes="20" errors="0" time="17.561308">
+  <properties>
+   <property name="RunDate" value="2016-06-06 14:30:23.291 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="TableReDoGherkinStyle.feature" assertions="20" successes="20" errors="0" time="17.559464">
+  </testcase>
+ </testsuite>
+</testsuites>

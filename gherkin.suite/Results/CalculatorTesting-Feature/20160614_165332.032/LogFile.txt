@@ -1,0 +1,9 @@
+﻿2016-06-14 16:53:32.032 -0600	START		Running CalculatorTesting.feature
+2016-06-14 16:53:36.036 -0600	imagefound	Calculator	Unable to Find Image Calculator	2	on_that_the_calculator_app_is_running_and_in_focus	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-14 16:53:37.037 -0600	click	WindowsButton	at (24, 808)	3	on_that_the_calculator_app_is_running_and_in_focus	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-14 16:53:37.037 -0600	typetext		calculator[return]	4	on_that_the_calculator_app_is_running_and_in_focus	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-14 16:53:38.038 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-14 16:53:39.039 -0600	click	CalcClearButton	at (809, 344)	2	on_there_is_no_current_value_in_the_calculator	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-14 16:53:39.039 -0600	LogSuccess		there is no current value in the calculator
+2016-06-14 16:53:39.039 -0600	EndTestCase		(Duration:"6.271", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 16:53:32 -0600", Successes:"2", TestCase:"CalculatorTesting.feature", Warnings:"0")
+2016-06-14 16:53:39.039 -0600	SUCCESS		1 scenarios (0 failed, 1 passed) 2 steps (0 failed, 0 skipped, 2 passed) Execution Time 0:00:07

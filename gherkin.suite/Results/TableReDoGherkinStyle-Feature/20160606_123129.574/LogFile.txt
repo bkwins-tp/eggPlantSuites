@@ -1,0 +1,23 @@
+﻿2016-06-06 12:31:29.575 -0600	START		Running TableReDoGherkinStyle.feature
+2016-06-06 12:31:29.584 -0600	LogWarning		the SUT is in its initial state, showing the desktop
+2016-06-06 12:31:30.162 -0600	click	ChromeIconToolbar	at (275, 821)	2	on_i_click_the_chrome_browser_icon	TableReDoGherkinStyle.script<SOURCE>
+2016-06-06 12:31:30.163 -0600	LogSuccess		I click the Chrome browser icon
+2016-06-06 12:31:30.164 -0600	LogSuccess		I click the Chrome browser icon
+2016-06-06 12:31:30.165 -0600	LogError		The Chrome browser is open
+2016-06-06 12:31:30.165 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 12:31:30.166 -0600	LogError		The Chrome browser is open
+2016-06-06 12:31:30.167 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 12:31:30.168 -0600	LogWarning		I enter a website address in the browser bar
+2016-06-06 12:31:30.168 -0600	LogWarning		the browser loads the web page I entered
+2016-06-06 12:31:30.169 -0600	LogWarning		The correct web page is loaded
+2016-06-06 12:31:30.170 -0600	LogWarning		I enter a search term in the page's search field
+2016-06-06 12:31:30.171 -0600	LogWarning		A listing for the search item appears
+2016-06-06 12:31:30.172 -0600	LogWarning		The page I searched for has loaded
+2016-06-06 12:31:30.172 -0600	LogWarning		I verify by searching text for the verification word(s)
+2016-06-06 12:31:30.175 -0600	LogWarning		The words will be found in the text of the page
+2016-06-06 12:31:30.175 -0600	LogError		The Chrome browser is open
+2016-06-06 12:31:30.176 -0600	LogSuccess		The Chrome browser is open
+2016-06-06 12:31:30.177 -0600	LogWarning		I click the close icon on the browser bar
+2016-06-06 12:31:30.178 -0600	LogWarning		The browser closes, returning the SUT to its initial state
+2016-06-06 12:31:30.179 -0600	EndTestCase		(Duration:"0.60319", Errors:"4", Exceptions:"0", StartTime:"2016-06-06 12:31:29 -0600", Successes:"5", TestCase:"TableReDoGherkinStyle.feature", Warnings:"11")
+2016-06-06 12:31:30.407 -0600	FAILURE	Screen_Error.png	5 scenarios (5 failed, 0 passed) 15 steps (3 failed, 11 skipped, 1 passed) Execution Time 0:00:00

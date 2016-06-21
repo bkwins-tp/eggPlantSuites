@@ -1,0 +1,87 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled">
+ <run>
+  <RunDate>2016-06-01 11:11:40.595 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.012779</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160601_111140.595/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-01 11:13:23.256 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.011475</Duration>
+  <Errors>0</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20160601_111323.256/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-01 11:13:39.071 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.012374</Duration>
+  <Errors>2</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160601_111339.071/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>something -- (no reason given)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-01 11:15:03.892 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.015267</Duration>
+  <Errors>2</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20160601_111503.892/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>something -- (no reason given)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-01 11:17:12.889 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.013186</Duration>
+  <Errors>2</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160601_111712.889/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>something -- (no reason given)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-01 11:25:35.406 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.013786</Duration>
+  <Errors>0</Errors>
+  <Warnings>4</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20160601_112535.406/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-01 11:29:34.985 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.463501</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160601_112934.985/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

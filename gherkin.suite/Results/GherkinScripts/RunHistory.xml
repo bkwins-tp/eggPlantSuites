@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="GherkinScripts">
+ <run>
+  <RunDate>2016-06-15 15:57:53.457 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.117395</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160615_155753.457/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

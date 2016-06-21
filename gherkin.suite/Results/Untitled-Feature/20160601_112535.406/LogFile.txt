@@ -1,0 +1,11 @@
+﻿2016-06-01 11:25:35.406 -0600	START		Running Untitled.feature
+2016-06-01 11:25:35.415 -0600	LogSuccess		<login> screen is visible
+2016-06-01 11:25:35.415 -0600	LogSuccess		<login> screen is visible
+2016-06-01 11:25:35.416 -0600	LogWarning		12 is entered
+2016-06-01 11:25:35.417 -0600	LogWarning		login is succesfull
+2016-06-01 11:25:35.417 -0600	LogSuccess		<login> screen is visible
+2016-06-01 11:25:35.418 -0600	LogSuccess		<login> screen is visible
+2016-06-01 11:25:35.418 -0600	LogWarning		12 is entered
+2016-06-01 11:25:35.419 -0600	LogWarning		login is succesfull
+2016-06-01 11:25:35.420 -0600	EndTestCase		(Duration:"0.012617", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 11:25:35 -0600", Successes:"4", TestCase:"Untitled.feature", Warnings:"4")
+2016-06-01 11:25:35.424 -0600	SUCCESS		Execution Time 0:00:00 Untitled.feature

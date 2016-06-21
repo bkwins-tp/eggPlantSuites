@@ -1,0 +1,16 @@
+﻿2016-06-10 11:39:35.407 -0600	START		Running CalculatorTesting.feature
+2016-06-10 11:39:36.519 -0600	imagefound	Calculator	found at (613, 223)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 11:39:36.604 -0600	click		at (613, 223)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 11:39:36.604 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 11:39:36.605 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 11:39:38.480 -0600	click	CalcClearButton	at (677, 367)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 11:39:38.482 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 11:39:38.482 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 11:39:39.210 -0600	typetext		4[return]	3	on_i_enter_num___num_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 11:39:39.211 -0600	LogSuccess		I enter 2 + 2 in the calculator
+2016-06-10 11:39:39.213 -0600	LogSuccess		I enter 2 + 2 in the calculator
+2016-06-10 11:39:42.147 -0600	set		SEARCHRECTANGLE = (CalculatorWindow_A,CalculatorWindow_B)	2	on_the_value_returned_should_be_4	CalculatorTesting.script<SOURCE>
+2016-06-10 11:39:42.149 -0600	LogError		the value returned should be 4
+2016-06-10 11:39:42.150 -0600	LogSuccess		the value returned should be 4
+2016-06-10 11:39:42.152 -0600	EndTestCase		(Duration:"6.742677", Errors:"2", Exceptions:"0", StartTime:"2016-06-10 11:39:35 -0600", Successes:"7", TestCase:"CalculatorTesting.feature", Warnings:"0")
+2016-06-10 11:39:43.415 -0600	FAILURE	Screen_Error.png	1 scenarios (1 failed, 0 passed) 4 steps (1 failed, 0 skipped, 3 passed) Execution Time 0:00:06

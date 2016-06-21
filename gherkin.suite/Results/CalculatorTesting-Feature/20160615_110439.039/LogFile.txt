@@ -1,0 +1,27 @@
+﻿2016-06-15 11:04:39.039 -0600	START		Running CalculatorTesting.feature
+2016-06-15 11:04:42.042 -0600	imagefound	Calculator	Unable to Find Image Calculator	2	on_that_the_calculator_app_is_running_and_in_focus	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-15 11:04:42.042 -0600	click	WindowsButton	at (24, 808)	3	on_that_the_calculator_app_is_running_and_in_focus	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-15 11:04:43.043 -0600	typetext		calculator[return]	4	on_that_the_calculator_app_is_running_and_in_focus	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-15 11:04:43.043 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-15 11:04:44.044 -0600	click	CalcClearButton	at (784, 319)	2	on_there_is_no_current_value_in_the_calculator	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-15 11:04:44.044 -0600	LogSuccess		there is no current value in the calculator
+2016-06-15 11:04:44.044 -0600	typetext		4[return]	3	on_i_enter_num___num_in_the_calculator	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-15 11:04:44.044 -0600	LogSuccess		I enter 2 + 2 in the calculator
+2016-06-15 11:04:44.044 -0600	LogWarning		the value returned should be 4
+2016-06-15 11:04:45.045 -0600	imagefound	Calculator	found at (720, 175)	2	on_that_the_calculator_app_is_running_and_in_focus	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-15 11:04:45.045 -0600	click		at (720, 175)	6	on_that_the_calculator_app_is_running_and_in_focus	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-15 11:04:45.045 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-15 11:04:46.046 -0600	click	CalcClearButton	at (784, 319)	2	on_there_is_no_current_value_in_the_calculator	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-15 11:04:46.046 -0600	LogSuccess		there is no current value in the calculator
+2016-06-15 11:04:47.047 -0600	typetext		6[return]	3	on_i_enter_num_minus_num_in_the_calculator	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-15 11:04:47.047 -0600	LogSuccess		I enter 10 minus 4 in the calculator
+2016-06-15 11:04:47.047 -0600	LogWarning		the value returned should be 6
+2016-06-15 11:04:48.048 -0600	imagefound	Calculator	found at (720, 175)	2	on_that_the_calculator_app_is_running_and_in_focus	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-15 11:04:48.048 -0600	click		at (720, 175)	6	on_that_the_calculator_app_is_running_and_in_focus	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-15 11:04:48.048 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-15 11:04:49.049 -0600	click	CalcClearButton	at (784, 319)	2	on_there_is_no_current_value_in_the_calculator	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/CalculatorTesting.script<SOURCE>
+2016-06-15 11:04:49.049 -0600	LogSuccess		there is no current value in the calculator
+2016-06-15 11:04:49.049 -0600	LogWarning		I multiply <Number1> by <Number2> in the calculator app
+2016-06-15 11:04:49.049 -0600	LogSuccess		the app displays the correct answer
+2016-06-15 11:04:49.049 -0600	EndTestCase		(Duration:"10.127", Errors:"0", Exceptions:"0", StartTime:"2016-06-15 11:04:39 -0600", Successes:"9", TestCase:"CalculatorTesting.feature", Warnings:"3")
+2016-06-15 11:04:49.049 -0600	FAILURE	Screen_Error.png	3 scenarios (3 failed, 0 passed) 12 steps (0 failed, 3 skipped, 9 passed) Execution Time 0:00:10

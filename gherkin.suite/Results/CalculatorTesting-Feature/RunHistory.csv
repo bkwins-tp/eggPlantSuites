@@ -1,0 +1,88 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-09 15:14:41.041 -0600,"Success",0:00:00,0,4,0,"20160609_151441.498/LogFile.txt","","",1
+2016-06-09 15:15:14.014 -0600,"Success",0:00:00,0,4,0,"20160609_151514.034/LogFile.txt","","",1
+2016-06-09 15:16:21.021 -0600,"Success",0:00:00,0,4,0,"20160609_151621.242/LogFile.txt","","",1
+2016-06-09 15:24:10.010 -0600,"Success",0:00:00,0,0,0,"20160609_152410.107/LogFile.txt","","",1
+2016-06-09 15:25:04.004 -0600,"Success",0:00:00,0,0,0,"20160609_152504.035/LogFile.txt","","",1
+2016-06-09 15:25:06.006 -0600,"Success",0:00:00,0,0,0,"20160609_152506.696/LogFile.txt","","",1
+2016-06-09 15:25:08.008 -0600,"Success",0:00:00,0,0,0,"20160609_152508.039/LogFile.txt","","",1
+2016-06-09 15:25:08.008 -0600,"Success",0:00:00,0,0,0,"20160609_152508.985/LogFile.txt","","",1
+2016-06-09 15:25:21.021 -0600,"Success",0:00:00,0,0,0,"20160609_152521.819/LogFile.txt","","",1
+2016-06-09 15:25:42.042 -0600,"Success",0:00:00,0,4,0,"20160609_152542.474/LogFile.txt","","",1
+2016-06-09 15:26:48.048 -0600,"Success",0:00:00,0,0,0,"20160609_152648.267/LogFile.txt","","",1
+2016-06-09 15:26:50.050 -0600,"Success",0:00:00,0,0,0,"20160609_152650.586/LogFile.txt","","",1
+2016-06-09 15:30:28.028 -0600,"Success",0:00:00,0,4,0,"20160609_153028.645/LogFile.txt","","",1
+2016-06-09 15:30:36.036 -0600,"Success",0:00:00,0,0,0,"20160609_153036.172/LogFile.txt","","",1
+2016-06-09 15:30:37.037 -0600,"Success",0:00:00,0,0,0,"20160609_153037.646/LogFile.txt","","",1
+2016-06-09 15:30:38.038 -0600,"Success",0:00:00,0,0,0,"20160609_153038.421/LogFile.txt","","",1
+2016-06-09 15:30:39.039 -0600,"Success",0:00:00,0,0,0,"20160609_153039.152/LogFile.txt","","",1
+2016-06-09 15:30:39.039 -0600,"Success",0:00:00,0,0,0,"20160609_153039.873/LogFile.txt","","",1
+2016-06-09 15:30:40.040 -0600,"Success",0:00:00,0,0,0,"20160609_153040.632/LogFile.txt","","",1
+2016-06-09 15:30:41.041 -0600,"Success",0:00:00,0,0,0,"20160609_153041.271/LogFile.txt","","",1
+2016-06-09 15:30:44.044 -0600,"Success",0:00:00,0,0,0,"20160609_153044.823/LogFile.txt","","",1
+2016-06-09 15:30:54.054 -0600,"Success",0:00:00,0,0,0,"20160609_153054.573/LogFile.txt","","",1
+2016-06-09 15:30:55.055 -0600,"Success",0:00:00,0,0,0,"20160609_153055.359/LogFile.txt","","",1
+2016-06-09 15:30:56.056 -0600,"Success",0:00:00,0,0,0,"20160609_153056.064/LogFile.txt","","",1
+2016-06-09 15:30:57.057 -0600,"Success",0:00:00,0,0,0,"20160609_153057.049/LogFile.txt","","",1
+2016-06-09 15:30:57.057 -0600,"Success",0:00:00,0,0,0,"20160609_153057.784/LogFile.txt","","",1
+2016-06-09 15:30:58.058 -0600,"Success",0:00:00,0,0,0,"20160609_153058.464/LogFile.txt","","",1
+2016-06-09 15:30:59.059 -0600,"Success",0:00:00,0,0,0,"20160609_153059.208/LogFile.txt","","",1
+2016-06-09 15:31:00.000 -0600,"Success",0:00:00,0,0,0,"20160609_153100.145/LogFile.txt","","",1
+2016-06-09 15:31:01.001 -0600,"Success",0:00:00,0,0,0,"20160609_153101.027/LogFile.txt","","",1
+2016-06-09 15:31:01.001 -0600,"Success",0:00:00,0,0,0,"20160609_153101.783/LogFile.txt","","",1
+2016-06-09 15:31:02.002 -0600,"Success",0:00:00,0,0,0,"20160609_153102.722/LogFile.txt","","",1
+2016-06-09 15:31:16.016 -0600,"Success",0:00:00,0,4,0,"20160609_153116.254/LogFile.txt","","",1
+2016-06-09 15:31:23.023 -0600,"Success",0:00:00,0,4,0,"20160609_153123.214/LogFile.txt","","",1
+2016-06-09 15:31:24.024 -0600,"Success",0:00:00,0,4,0,"20160609_153124.176/LogFile.txt","","",1
+2016-06-09 15:31:24.024 -0600,"Success",0:00:00,0,4,0,"20160609_153124.889/LogFile.txt","","",1
+2016-06-09 16:34:19.019 -0600,"Success",0:00:00,0,4,0,"20160609_163419.650/LogFile.txt","","",1
+2016-06-09 16:34:25.025 -0600,"Success",0:00:00,0,4,0,"20160609_163425.904/LogFile.txt","","",1
+2016-06-09 16:56:40.040 -0600,"Success",0:00:00,0,3,0,"20160609_165640.165/LogFile.txt","","",1
+2016-06-10 11:17:05.005 -0600,"Success",0:00:00,0,0,0,"20160610_111705.440/LogFile.txt","","",1
+2016-06-10 11:17:07.007 -0600,"Success",0:00:02,0,2,0,"20160610_111707.286/LogFile.txt","","",4
+2016-06-10 11:17:31.031 -0600,"Success",0:00:03,0,2,0,"20160610_111731.335/LogFile.txt","","",4
+2016-06-10 11:17:41.041 -0600,"Success",0:00:02,0,2,0,"20160610_111741.685/LogFile.txt","","",4
+2016-06-10 11:18:01.001 -0600,"Running",0:00:00,0,0,0,"20160610_111801.399/LogFile.txt","","",0
+2016-06-10 11:18:31.031 -0600,"Success",0:00:12,0,2,0,"20160610_111831.336/LogFile.txt","","",4
+2016-06-10 11:20:43.043 -0600,"Success",0:00:03,0,1,0,"20160610_112043.788/LogFile.txt","","",6
+2016-06-10 11:39:35.035 -0600,"Failure",0:00:06,2,0,0,"20160610_113935.407/LogFile.txt","","STInvalidParameters -- Function readtext should be called with between 1 and 5 parameters",7
+2016-06-10 11:42:39.039 -0600,"Failure",0:00:15,2,0,0,"20160610_114239.164/LogFile.txt","","STInvalidParameters -- Function readtext should be called with between 1 and 5 parameters",7
+2016-06-10 12:11:21.021 -0600,"Success",0:00:06,0,0,0,"20160610_121121.357/LogFile.txt","","",9
+2016-06-10 12:11:43.043 -0600,"Success",0:00:14,0,0,0,"20160610_121143.076/LogFile.txt","","",9
+2016-06-10 12:21:02.002 -0600,"Failure",0:00:08,2,0,0,"20160610_122102.272/LogFile.txt","","SenseTalk Compiler Exception -- in the_value_returned_should_be_6:\nSyntax Error at line 7: Syntax Error - can't understand ""the_value_returned_should_be_6"" at or near character 206",16
+2016-06-10 12:22:39.039 -0600,"Failure",0:00:08,2,0,0,"20160610_122239.115/LogFile.txt","","SenseTalk Compiler Exception -- in the_value_returned_should_be_6:\nSyntax Error at line 7: Syntax Error - can't understand ""the_value_returned_should_be_6"" at or near character 206",16
+2016-06-10 12:31:50.050 -0600,"Success",0:00:08,0,1,0,"20160610_123150.415/LogFile.txt","","",15
+2016-06-10 12:32:42.042 -0600,"Failure",0:00:08,2,0,0,"20160610_123242.738/LogFile.txt","","SenseTalk Compiler Exception -- in the_value_returned_should_be_6:\nSyntax Error at line 7: Syntax Error - can't understand ""the_value_returned_should_be_6"" at or near character 206",16
+2016-06-10 12:34:04.004 -0600,"Failure",0:00:08,2,0,0,"20160610_123404.168/LogFile.txt","","SenseTalk Compiler Exception -- in the_value_returned_should_be_6:\nSyntax Error at line 8: Syntax Error - can't understand ""the_value_returned_should_be_6"" at or near character 220",16
+2016-06-10 12:35:05.005 -0600,"Failure",0:00:08,2,0,0,"20160610_123505.750/LogFile.txt","","SenseTalk Compiler Exception -- in the_value_returned_should_be_6:\nSyntax Error at line 9: Syntax Error - can't understand ""the_value_returned_should_be_6"" at or near character 233",16
+2016-06-10 13:33:41.041 -0600,"Failure",0:00:06,2,0,0,"20160610_133341.227/LogFile.txt","","SenseTalk Compiler Exception -- in the_value_returned_should_be_6:\nSyntax Error at line 9: Syntax Error - can't understand ""the_value_returned_should_be_6"" at or near character 233",16
+2016-06-10 13:52:41.041 -0600,"Failure",0:00:06,2,0,0,"20160610_135241.680/LogFile.txt","","SenseTalk Compiler Exception -- in the_value_returned_should_be_6:\nSyntax Error at line 9: Syntax Error - can't understand ""the_value_returned_should_be_6"" at or near character 233",16
+2016-06-10 13:54:17.017 -0600,"Failure",0:00:06,2,0,0,"20160610_135417.270/LogFile.txt","","SenseTalk Compiler Exception -- in the_value_returned_should_be_6:\nSyntax Error at line 7: Syntax Error - can't understand ""the_value_returned_should_be_6"" at or near character 206",16
+2016-06-10 13:56:20.020 -0600,"Failure",0:00:06,2,0,0,"20160610_135620.080/LogFile.txt","","SenseTalk Compiler Exception -- in the_value_returned_should_be_6:\nSyntax Error at line 7: Syntax Error - can't understand ""the_value_returned_should_be_6"" at or near character 206",16
+2016-06-10 13:57:37.037 -0600,"Failure",0:00:06,2,0,0,"20160610_135737.862/LogFile.txt","","SenseTalk Compiler Exception -- in the_value_returned_should_be_6:\nSyntax Error at line 7: Syntax Error - can't understand ""the_value_returned_should_be_6"" at or near character 206",16
+2016-06-10 14:02:21.021 -0600,"Failure",0:00:06,2,0,0,"20160610_140221.958/LogFile.txt","","SenseTalk Compiler Exception -- in the_value_returned_should_be_6:\nSyntax Error at line 7: Syntax Error - can't understand ""the_value_returned_should_be_6"" at or near character 206",16
+2016-06-10 14:03:41.041 -0600,"Failure",0:00:06,2,0,0,"20160610_140341.301/LogFile.txt","","SenseTalk Compiler Exception -- in the_value_returned_should_be_6:\nSyntax Error at line 8: Syntax Error - can't understand ""the_value_returned_should_be_6"" at or near character 263",16
+2016-06-10 14:05:45.045 -0600,"Success",0:00:08,0,0,0,"20160610_140545.651/LogFile.txt","","",18
+2016-06-10 14:23:51.051 -0600,"Success",0:00:13,0,0,0,"20160610_142351.401/LogFile.txt","","",18
+2016-06-10 14:24:17.017 -0600,"Success",0:00:12,0,0,0,"20160610_142417.965/LogFile.txt","","",18
+2016-06-10 14:27:53.053 -0600,"Success",0:00:07,0,0,0,"20160610_142753.333/LogFile.txt","","",18
+2016-06-10 14:28:10.010 -0600,"Success",0:00:08,0,0,0,"20160610_142810.424/LogFile.txt","","",18
+2016-06-10 14:36:10.010 -0600,"Failure",0:00:10,2,1,0,"20160610_143610.574/LogFile.txt","","SenseTalk Compiler Exception -- in i_multiply_a_var_by_another_var_in_the_calculator_app:\nWarning at line 2: Warning - Duplicate identifier",23
+2016-06-10 15:20:33.033 -0600,"Failure",0:00:14,1,0,0,"20160610_152033.956/LogFile.txt","","Script Error -- Number of Errors logged: 1",26
+2016-06-10 15:23:02.002 -0600,"Failure",0:00:14,1,0,0,"20160610_152302.923/LogFile.txt","","Script Error -- Number of Errors logged: 1",26
+2016-06-10 15:26:35.035 -0600,"Failure",0:00:13,1,0,0,"20160610_152635.034/LogFile.txt","","Script Error -- Number of Errors logged: 1",26
+2016-06-10 15:27:17.017 -0600,"Failure",0:00:13,1,0,0,"20160610_152717.104/LogFile.txt","","Script Error -- Number of Errors logged: 1",26
+2016-06-10 15:31:55.055 -0600,"Failure",0:00:22,1,0,0,"20160610_153155.304/LogFile.txt","","Script Error -- Number of Errors logged: 1",26
+2016-06-10 15:43:13.013 -0600,"Success",0:00:16,0,0,0,"20160610_154313.296/LogFile.txt","","",27
+2016-06-10 15:44:40.040 -0600,"Failure",0:00:13,1,0,0,"20160610_154440.968/LogFile.txt","","Script Error -- Number of Errors logged: 1",26
+2016-06-13 09:31:38.038 -0600,"Failure",0:00:00,12,1,11,"20160613_093138.038/LogFile.txt","","No Remote Connection -- readtext Error - Remote Connection Unavailable",11
+2016-06-13 10:59:48.048 -0600,"Success",0:00:10,0,2,0,"20160613_105948.048/LogFile.txt","","",22
+2016-06-14 16:52:37.037 -0600,"Success",0:00:06,0,3,0,"20160614_165237.037/LogFile.txt","","",9
+2016-06-14 16:53:04.004 -0600,"Success",0:00:00,0,0,0,"20160614_165304.004/LogFile.txt","","",1
+2016-06-14 16:53:32.032 -0600,"Success",0:00:06,0,0,0,"20160614_165332.032/LogFile.txt","","",2
+2016-06-15 11:04:39.039 -0600,"Success",0:00:10,0,3,0,"20160615_110439.039/LogFile.txt","","",9
+2016-06-15 11:19:11.011 -0600,"Failure",0:00:00,9,3,8,"20160615_111911.011/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",1
+2016-06-15 11:55:49.049 -0600,"Success",0:00:06,0,3,0,"20160615_115549.049/LogFile.txt","","",9
+2016-06-15 11:58:31.031 -0600,"Success",0:00:06,0,3,0,"20160615_115831.031/LogFile.txt","","",9
+2016-06-15 15:50:44.044 -0600,"Failure",0:00:00,9,3,8,"20160615_155044.044/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",1
+2016-06-15 15:51:03.003 -0600,"Success",0:00:06,0,3,0,"20160615_155103.003/LogFile.txt","","",9

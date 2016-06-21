@@ -1,0 +1,43 @@
+﻿2016-06-10 14:36:10.574 -0600	START		Running CalculatorTesting.feature
+2016-06-10 14:36:10.944 -0600	imagefound	Calculator	found at (716, 172)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 14:36:11.035 -0600	click		at (716, 172)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 14:36:11.036 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 14:36:11.037 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 14:36:12.161 -0600	click	CalcClearButton	at (780, 316)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 14:36:12.162 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 14:36:12.164 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 14:36:12.887 -0600	typetext		4[return]	3	on_i_enter_num___num_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 14:36:12.888 -0600	LogSuccess		I enter 2 + 2 in the calculator
+2016-06-10 14:36:12.889 -0600	LogSuccess		I enter 2 + 2 in the calculator
+2016-06-10 14:36:14.418 -0600	readtext		(682,212,878,268)
+2016-06-10 14:36:14.420 -0600	LogSuccess		value is correct	6	on_the_value_returned_should_be_4	CalculatorTesting.script<SOURCE>
+2016-06-10 14:36:14.423 -0600	LogSuccess		the value returned should be 4
+2016-06-10 14:36:14.424 -0600	LogSuccess		the value returned should be 4
+2016-06-10 14:36:14.788 -0600	imagefound	Calculator	found at (716, 172)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 14:36:14.877 -0600	click		at (716, 172)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 14:36:14.878 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 14:36:14.879 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 14:36:15.797 -0600	click	CalcClearButton	at (780, 316)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 14:36:15.799 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 14:36:15.799 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 14:36:16.526 -0600	typetext		6[return]	3	on_i_enter_num_minus_num_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 14:36:16.527 -0600	LogSuccess		I enter 10 minus 4 in the calculator
+2016-06-10 14:36:16.527 -0600	LogSuccess		I enter 10 minus 4 in the calculator
+2016-06-10 14:36:18.055 -0600	readtext		(682,212,878,268)
+2016-06-10 14:36:18.915 -0600	readtext		(682,212,878,268)
+2016-06-10 14:36:18.915 -0600	Log		6	3	on_the_value_returned_should_be_6	CalculatorTesting.script<SOURCE>
+2016-06-10 14:36:18.918 -0600	LogSuccess		value is correct	5	on_the_value_returned_should_be_6	CalculatorTesting.script<SOURCE>
+2016-06-10 14:36:18.919 -0600	LogSuccess		the value returned should be 6
+2016-06-10 14:36:18.920 -0600	LogSuccess		the value returned should be 6
+2016-06-10 14:36:19.301 -0600	imagefound	Calculator	found at (716, 172)	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 14:36:19.393 -0600	click		at (716, 172)	6	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-10 14:36:19.394 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 14:36:19.395 -0600	LogSuccess		that the Calculator app is running and in focus
+2016-06-10 14:36:20.647 -0600	click	CalcClearButton	at (780, 316)	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-10 14:36:20.648 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 14:36:20.649 -0600	LogSuccess		there is no current value in the calculator
+2016-06-10 14:36:20.650 -0600	LogError		I multiply a <num1> by another <num2> in the calculator app
+2016-06-10 14:36:20.651 -0600	LogSuccess		I multiply a <num1> by another <num2> in the calculator app
+2016-06-10 14:36:20.651 -0600	LogWarning		the app displays the correct answer
+2016-06-10 14:36:20.653 -0600	EndTestCase		(Duration:"10.07687", Errors:"2", Exceptions:"0", StartTime:"2016-06-10 14:36:10 -0600", Successes:"23", TestCase:"CalculatorTesting.feature", Warnings:"1")
+2016-06-10 14:36:20.867 -0600	FAILURE	Screen_Error.png	3 scenarios (1 failed, 2 passed) 12 steps (1 failed, 1 skipped, 10 passed) Execution Time 0:00:10

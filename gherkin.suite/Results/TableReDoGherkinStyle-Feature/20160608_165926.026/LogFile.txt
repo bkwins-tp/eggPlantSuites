@@ -1,0 +1,73 @@
+﻿2016-06-08 16:59:26.026 -0600	START		Running TableReDoGherkinStyle.feature
+2016-06-08 16:59:26.026 -0600	LogSuccess		the SUT is in its initial state showing the desktop
+2016-06-08 16:59:26.026 -0600	LogSuccess		the SUT is in its initial state showing the desktop
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	2	on_i_click_the_chrome_browser_icon	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		I click the Chrome browser icon
+2016-06-08 16:59:26.026 -0600	LogSuccess		I click the Chrome browser icon
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	2	on_the_chrome_browser_is_open	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		The Chrome browser is open
+2016-06-08 16:59:26.026 -0600	LogSuccess		The Chrome browser is open
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	2	on_the_chrome_browser_is_open	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		The Chrome browser is open
+2016-06-08 16:59:26.026 -0600	LogSuccess		The Chrome browser is open
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	2	on_i_enter_a_website_address_in_the_browser_bar	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		I enter a website address in the browser bar
+2016-06-08 16:59:26.026 -0600	LogSuccess		I enter a website address in the browser bar
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	2	on_the_browser_shows_the_correct_web_page	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		the browser shows the correct web page
+2016-06-08 16:59:26.026 -0600	LogSuccess		the browser shows the correct web page
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	2	on_the_browser_shows_the_correct_web_page	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		the browser shows the correct web page
+2016-06-08 16:59:26.026 -0600	LogSuccess		the browser shows the correct web page
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	3	on_i_enter_a_var_in_the_page_search_field	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		I enter a <searchterm> in the page search field
+2016-06-08 16:59:26.026 -0600	LogSuccess		I enter a <searchterm> in the page search field
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	3	on_a_listing_for_the_var_item_appears	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		A listing for the <searchterm> item appears
+2016-06-08 16:59:26.026 -0600	LogSuccess		A listing for the <searchterm> item appears
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	2	on_the_browser_shows_the_correct_web_page	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		the browser shows the correct web page
+2016-06-08 16:59:26.026 -0600	LogSuccess		the browser shows the correct web page
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	3	on_i_enter_a_var_in_the_page_search_field	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		I enter a <searchterm> in the page search field
+2016-06-08 16:59:26.026 -0600	LogSuccess		I enter a <searchterm> in the page search field
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	3	on_a_listing_for_the_var_item_appears	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		A listing for the <searchterm> item appears
+2016-06-08 16:59:26.026 -0600	LogSuccess		A listing for the <searchterm> item appears
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	2	on_the_browser_shows_the_correct_web_page	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		the browser shows the correct web page
+2016-06-08 16:59:26.026 -0600	LogSuccess		the browser shows the correct web page
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	3	on_i_enter_a_var_in_the_page_search_field	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		I enter a <searchterm> in the page search field
+2016-06-08 16:59:26.026 -0600	LogSuccess		I enter a <searchterm> in the page search field
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	3	on_a_listing_for_the_var_item_appears	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		A listing for the <searchterm> item appears
+2016-06-08 16:59:26.026 -0600	LogSuccess		A listing for the <searchterm> item appears
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	2	on_the_browser_shows_the_correct_web_page	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		the browser shows the correct web page
+2016-06-08 16:59:26.026 -0600	LogSuccess		the browser shows the correct web page
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	3	on_i_enter_a_var_in_the_page_search_field	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		I enter a <searchterm> in the page search field
+2016-06-08 16:59:26.026 -0600	LogSuccess		I enter a <searchterm> in the page search field
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	3	on_a_listing_for_the_var_item_appears	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		A listing for the <searchterm> item appears
+2016-06-08 16:59:26.026 -0600	LogSuccess		A listing for the <searchterm> item appears
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	2	on_a_listing_for_the_search_item_appears	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		A listing for the search item appears
+2016-06-08 16:59:26.026 -0600	LogSuccess		A listing for the search item appears
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	2	on_i_verify_by_searching_text_for_the_verification_words	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		I verify by searching text for the verification words
+2016-06-08 16:59:26.026 -0600	LogSuccess		I verify by searching text for the verification words
+2016-06-08 16:59:26.026 -0600	LogSuccess		The words will be found in the text of the page
+2016-06-08 16:59:26.026 -0600	LogSuccess		The words will be found in the text of the page
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	2	on_the_chrome_browser_is_open	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		The Chrome browser is open
+2016-06-08 16:59:26.026 -0600	LogSuccess		The Chrome browser is open
+2016-06-08 16:59:26.026 -0600	Exception		Remote Connection Unavailable	2	on_i_click_the_close_icon_on_the_browser_bar	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogError		I click the close icon on the browser bar
+2016-06-08 16:59:26.026 -0600	LogSuccess		I click the close icon on the browser bar
+2016-06-08 16:59:26.026 -0600	Log		we're done, reset, and ready to go again!	3	on_the_browser_closes_returning_the_sut_to_its_initial_state	C://psf/Home/Documents/ePFSuites/gherkin.suite/Scripts/TableReDoGherkinStyle.script<SOURCE>
+2016-06-08 16:59:26.026 -0600	LogSuccess		The browser closes returning the SUT to its initial state
+2016-06-08 16:59:26.026 -0600	LogSuccess		The browser closes returning the SUT to its initial state
+2016-06-08 16:59:26.026 -0600	EndTestCase		(Duration:"0.496", Errors:"22", Exceptions:"21", StartTime:"2016-06-08 16:59:26 -0600", Successes:"27", TestCase:"TableReDoGherkinStyle.feature", Warnings:"0")
+2016-06-08 16:59:26.026 -0600	FAILURE		8 scenarios (8 failed, 0 passed) 24 steps (21 failed, 0 skipped, 3 passed) Execution Time 0:00:00

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="TableReDoGherkinStyle">
+ <run>
+  <RunDate>2016-06-06 15:06:01.906 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.705095</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160606_150601.906/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

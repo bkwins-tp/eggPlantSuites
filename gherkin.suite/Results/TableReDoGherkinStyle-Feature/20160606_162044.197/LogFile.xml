@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="TableReDoGherkinStyle.feature" package="gherkin.suite" timestamp="2016-06-06 16:20:44.197 -0600"
+ tests="1" successes="45" errors="5" time="162.234984">
+  <properties>
+   <property name="RunDate" value="2016-06-06 16:20:44.197 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="TableReDoGherkinStyle.feature" assertions="50" successes="45" errors="5" time="162.233097">
+    <failure type="LogError">A listing for the search item appears</failure>
+    <failure type="LogError">Not found :( </failure>
+    <failure type="LogError">The Chrome browser is open</failure>
+    <failure type="LogError">I click the close icon on the browser bar</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

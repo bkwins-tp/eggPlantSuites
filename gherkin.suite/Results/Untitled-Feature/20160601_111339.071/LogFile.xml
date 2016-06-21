@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Untitled.feature" package="gherkin.suite" timestamp="2016-06-01 11:13:39.071 -0600"
+ tests="1" successes="1" errors="2" time="0.012374">
+  <properties>
+   <property name="RunDate" value="2016-06-01 11:13:39.071 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Untitled.feature" assertions="3" successes="1" errors="2" time="0.011203">
+    <failure type="LogError">login screen is visible</failure>
+  </testcase>
+ </testsuite>
+</testsuites>
