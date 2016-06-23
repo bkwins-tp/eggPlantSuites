@@ -3,7 +3,7 @@
  <run>
   <RunDate>2016-06-15 11:06:29.029 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.224000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>11</Warnings>
   <Exceptions>0</Exceptions>
@@ -12,10 +12,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-15 11:18:57.057 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.175000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>11</Warnings>
   <Exceptions>0</Exceptions>

@@ -1057,4 +1057,40 @@ Warning at line 2: Warning - Duplicate identifier</ErrorMessage>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
+< <run>
+  <RunDate>2016-06-23 12:51:53.811 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.150606</Duration>
+  <Errors>15</Errors>
+  <Warnings>6</Warnings>
+  <Exceptions>14</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20160623_125153.811/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-23 12:51:58.797 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.127907</Duration>
+  <Errors>15</Errors>
+  <Warnings>6</Warnings>
+  <Exceptions>14</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20160623_125158.797/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-23 12:51:59.776 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.742549</Duration>
+  <Errors>15</Errors>
+  <Warnings>6</Warnings>
+  <Exceptions>14</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20160623_125159.776/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
 </runHistory>
