@@ -1,0 +1,5 @@
+﻿if imageFound("AlertPanel") and counter <= 12 then
+	add 1 to counter  -- count the number of alerts
+	click "Cancel"  -- dismiss the panel
+	cleanupAfterAlert myAlert(23)  -- do cleanup
+end if

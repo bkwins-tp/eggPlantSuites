@@ -1,0 +1,8 @@
+﻿set the searchRectangle to (0,0,134,475)
+set the imageSearchCount to 1
+
+Click (Text:"eggplant", caseSensitive:"yes")
+(*MoveTo (Text:"SUT", WaitFor:8, CaseSensitive:"Yes")
+log EveryImageLocation(Text:"OCR")*)
+
+log EveryImageLocation(Text:"OCR") // Searches for the text string OCR and logs the screen coordinates for every instance found.
