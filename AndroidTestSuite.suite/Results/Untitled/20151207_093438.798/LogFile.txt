@@ -1,3 +1,0 @@
-﻿2015-12-07 09:34:38.798 -0700	START		Running Untitled.script
-2015-12-07 09:34:45.434 -0700	EndTestCase		(Duration:"6.634604", Errors:"1", Exceptions:"0", StartTime:"2015-12-07 09:34:38 -0700", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
-2015-12-07 09:34:45.435 -0700	ABORTED		Execution Time 0:00:06 Untitled.script

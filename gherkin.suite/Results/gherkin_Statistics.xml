@@ -1,28 +1,12 @@
 ﻿<?xml version="1.0"?>
 <statistics>
- <script name="FeatureTest1">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>9</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2016-06-01 14:50:39 -0600</FirstRun>
-  <LastRun>2016-06-15 11:18:57 -0600</LastRun>
-  <TotalTimeOnSuccess>1.990321</TotalTimeOnSuccess>
- </script>
- <script name="MultiplicationTableTest">
+ <script name="CalculatorTesting">
   <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>30</NumberOfRuns>
-  <NumberOfFails>13</NumberOfFails>
-  <FirstRun>2016-06-06 11:43:36 -0600</FirstRun>
-  <LastRun>2016-06-08 16:59:26 -0600</LastRun>
-  <TotalTimeOnSuccess>161.705903</TotalTimeOnSuccess>
- </script>
- <script name="GherkinScripts">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2016-06-15 15:57:53 -0600</FirstRun>
-  <LastRun>2016-06-15 15:57:53 -0600</LastRun>
-  <TotalTimeOnSuccess>0.117395</TotalTimeOnSuccess>
+  <NumberOfRuns>12</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2016-06-14 16:52:37 -0600</FirstRun>
+  <LastRun>2016-06-23 12:51:59 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
  </script>
  <script name="CalcTesting2">
   <LastStatus>Success</LastStatus>
@@ -30,7 +14,23 @@
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2016-06-15 11:03:50 -0600</FirstRun>
   <LastRun>2016-06-15 11:03:50 -0600</LastRun>
-  <TotalTimeOnSuccess>0.082000</TotalTimeOnSuccess>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="FeatureTest1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>9</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-01 14:50:39 -0600</FirstRun>
+  <LastRun>2016-06-15 11:18:57 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="MultiplicationTableTest">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>30</NumberOfRuns>
+  <NumberOfFails>13</NumberOfFails>
+  <FirstRun>2016-06-06 11:43:36 -0600</FirstRun>
+  <LastRun>2016-06-08 16:59:26 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
  </script>
  <script name="CalcAppTesting">
   <LastStatus>Success</LastStatus>
@@ -38,14 +38,14 @@
   <NumberOfFails>2</NumberOfFails>
   <FirstRun>2016-06-13 14:34:59 -0600</FirstRun>
   <LastRun>2016-06-15 14:46:24 -0600</LastRun>
-  <TotalTimeOnSuccess>16.830000</TotalTimeOnSuccess>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
  </script>
- <script name="CalculatorTesting">
-  <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>12</NumberOfRuns>
-  <NumberOfFails>5</NumberOfFails>
-  <FirstRun>2016-06-14 16:52:37 -0600</FirstRun>
-  <LastRun>2016-06-23 12:51:59 -0600</LastRun>
-  <TotalTimeOnSuccess>43.595000</TotalTimeOnSuccess>
+ <script name="GherkinScripts">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-15 15:57:53 -0600</FirstRun>
+  <LastRun>2016-06-15 15:57:53 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
  </script>
 </statistics>

@@ -1,8 +1,0 @@
-﻿2015-12-07 10:18:10.368 -0700	START		Running Untitled.script
-2015-12-07 10:18:12.899 -0700	click	ChromeOnAndroidDesktop	at (441, 919)	1	on_untitled	Untitled.script
-2015-12-07 10:18:13.750 -0700	click	InGoogleSearchField	at (67, 591)	2	on_untitled	Untitled.script
-2015-12-07 10:18:14.595 -0700	typetext		Yellowstone[return]	3	on_untitled	Untitled.script
-2015-12-07 10:18:15.309 -0700	typetext		[BackButton]	6	on_untitled	Untitled.script
-2015-12-07 10:18:16.023 -0700	typetext		[HomeButton]	7	on_untitled	Untitled.script
-2015-12-07 10:18:16.054 -0700	EndTestCase		(Duration:"5.683917", Errors:"0", Exceptions:"0", StartTime:"2015-12-07 10:18:10 -0700", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
-2015-12-07 10:18:16.058 -0700	SUCCESS		Execution Time 0:00:05 Untitled.script
