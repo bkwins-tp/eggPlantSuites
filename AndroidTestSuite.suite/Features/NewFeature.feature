@@ -1,7 +1,7 @@
 ﻿Feature: bob
 
   Scenario: sam the scenario!
-    Given
+    Given some stuff
     When
     Then
 
