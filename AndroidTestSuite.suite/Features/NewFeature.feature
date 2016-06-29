@@ -1,6 +1,6 @@
 ﻿Feature: bob
 
-  Scenario:
+  Scenario: sam the scenario!
     Given
     When
     Then

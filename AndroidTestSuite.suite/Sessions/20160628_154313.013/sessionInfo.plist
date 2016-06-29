@@ -1,0 +1,32 @@
+{
+    commandList = "[{captureRect:[240, 4, 310, 34], command:@\"Click\", eventNum:2, hotSpot:[275, 812], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0001\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/bkwins/SCMCheckout/eggPlantSuites/AndroidTestSuite.suite/Sessions/20160628_154313.013/Screen0002.png\"}, {captureRect:[144, 369, 210, 383], command:@\"Click\", eventNum:4, hotSpot:[181, 453], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Downosds\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/bkwins/SCMCheckout/eggPlantSuites/AndroidTestSuite.suite/Sessions/20160628_154313.013/Screen0004.png\"}, {captureRect:[153, 301, 251, 318], command:@\"Click\", eventNum:6, hotSpot:[182, 518], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"eggPlantMobile\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/bkwins/SCMCheckout/eggPlantSuites/AndroidTestSuite.suite/Sessions/20160628_154313.013/Screen0006.png\"}, {captureRect:[370, 223, 440, 253], command:@\"MoveTo\", eventNum:8, hotSpot:[405, 593], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0002\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/bkwins/SCMCheckout/eggPlantSuites/AndroidTestSuite.suite/Sessions/20160628_154313.013/Screen0008.png\"}, {command:@\"ScrollWheelDown\", eventNum:9, screenShotFile:@\"C:/Users/bkwins/SCMCheckout/eggPlantSuites/AndroidTestSuite.suite/Sessions/20160628_154313.013/Screen0008.png\", text:@\"2.0\"}, {captureRect:[381, 215, 452, 227], command:@\"MoveTo\", eventNum:10, hotSpot:[405, 593], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"pnnOnv1fW\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/bkwins/SCMCheckout/eggPlantSuites/AndroidTestSuite.suite/Sessions/20160628_154313.013/Screen0010.png\"}, {command:@\"ScrollWheelDown\", eventNum:11, screenShotFile:@\"C:/Users/bkwins/SCMCheckout/eggPlantSuites/AndroidTestSuite.suite/Sessions/20160628_154313.013/Screen0010.png\", text:@\"3.0\"}, {captureRect:[996, 201, 1066, 231], command:@\"Click\", eventNum:12, hotSpot:[1031, 615], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0003\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/bkwins/SCMCheckout/eggPlantSuites/AndroidTestSuite.suite/Sessions/20160628_154313.013/Screen0012.png\"}, {captureRect:[760, 420, 930, 439], command:@\"Drag\", eventNum:14, hotSpot:[935, 405], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"UsingAndroidGateway\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/bkwins/SCMCheckout/eggPlantSuites/AndroidTestSuite.suite/Sessions/20160628_154313.013/Screen0014.png\"}, {captureRect:[760, 413, 930, 432], command:@\"Drop\", eventNum:14, hotSpot:[834, 395], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"UsingAndroidGateway_0001\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/bkwins/SCMCheckout/eggPlantSuites/AndroidTestSuite.suite/Sessions/20160628_154313.013/Screen0015.png\"}, {captureRect:[760, 420, 930, 439], command:@\"Click\", eventNum:16, hotSpot:[822, 403], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"UsingAndroidGateway_0002\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/bkwins/SCMCheckout/eggPlantSuites/AndroidTestSuite.suite/Sessions/20160628_154313.013/Screen0016.png\"}, {captureRect:[1153, 806, 1223, 831], command:@\"Click\", eventNum:18, hotSpot:[1188, 10], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0004\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/bkwins/SCMCheckout/eggPlantSuites/AndroidTestSuite.suite/Sessions/20160628_154313.013/Screen0018.png\"}]";
+    generatedCommands = (
+	"Click \"image0001\"",
+	"Click \"Downosds\"",
+	"Click \"eggPlantMobile\"",
+	"MoveTo \"image0002\"",
+	"ScrollWheelDown 2.0",
+	"MoveTo \"pnnOnv1fW\"",
+	"ScrollWheelDown 3.0",
+	"Click \"image0003\"",
+	"Drag \"UsingAndroidGateway\"",
+	"Drop \"UsingAndroidGateway_0001\"",
+	"Click \"UsingAndroidGateway_0002\"",
+	"Click \"image0004\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "image0001.png",
+	    "Downosds.png",
+	    "eggPlantMobile.png",
+	    "image0002.png",
+	    "pnnOnv1fW.png",
+	    "image0003.png",
+	    "UsingAndroidGateway.png",
+	    "UsingAndroidGateway_0001.png",
+	    "UsingAndroidGateway_0002.png",
+	    "image0004.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}
