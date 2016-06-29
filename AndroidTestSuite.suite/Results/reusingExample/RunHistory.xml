@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="reusingExample">
+ <run>
+  <RunDate>2016-06-29 14:34:02.002 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.440000</Duration>
+  <Errors>1</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160629_143402.002/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- imagelocation Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-29 14:36:28.028 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.373000</Duration>
+  <Errors>1</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160629_143628.028/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- imagelocation Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+</runHistory>

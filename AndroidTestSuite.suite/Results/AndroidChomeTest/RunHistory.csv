@@ -1,0 +1,12 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2015-12-07 09:29:39.039 -0700,"Running",0:00:00,0,0,0,"20151207_092939.064/LogFile.txt","","",0
+2015-12-07 09:30:27.027 -0700,"Failure",0:00:06,1,0,1,"20151207_093027.803/LogFile.txt","","File Not Found -- press Error - Could Not Open Image: ",0
+2015-12-07 09:32:14.014 -0700,"Failure",0:00:22,1,0,1,"20151207_093214.747/LogFile.txt","","File Not Found -- press Error - Could Not Open Image: ",0
+2015-12-07 09:34:38.038 -0700,"Running",0:00:00,0,0,0,"20151207_093438.798/LogFile.txt","","",0
+2015-12-07 09:34:53.053 -0700,"Success",0:00:03,0,0,0,"20151207_093453.168/LogFile.txt","","",1
+2015-12-07 10:17:00.000 -0700,"Success",0:00:06,0,0,0,"20151207_101700.297/LogFile.txt","","",1
+2015-12-07 10:18:10.010 -0700,"Success",0:00:05,0,0,0,"20151207_101810.368/LogFile.txt","","",1
+2015-12-07 12:44:07.007 -0700,"Success",0:00:08,0,0,0,"20151207_124407.403/LogFile.txt","","",1
+2015-12-07 14:13:34.034 -0700,"Running",0:00:00,0,0,0,"20151207_141334.972/LogFile.txt","","",0
+2015-12-07 14:13:51.051 -0700,"Success",0:00:13,0,0,0,"20151207_141351.520/LogFile.txt","","",1
+2016-06-29 14:33:42.042 -0600,"Failure",0:00:00,1,0,1,"20160629_143342.042/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",0

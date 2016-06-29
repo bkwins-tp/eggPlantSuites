@@ -1,0 +1,41 @@
+﻿2016-06-23 12:51:53.822 -0600	START		Running CalculatorTesting.feature
+2016-06-23 12:51:53.884 -0600	Exception		Remote Connection Unavailable	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-23 12:51:53.887 -0600	LogError		that the Calculator app is running and in focus
+2016-06-23 12:51:53.889 -0600	Exception		Remote Connection Unavailable	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-23 12:51:53.892 -0600	LogError		there is no current value in the calculator
+2016-06-23 12:51:53.893 -0600	Exception		Remote Connection Unavailable	3	on_i_enter_num___num_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-23 12:51:53.896 -0600	LogError		I enter 2 + 2 in the calculator
+2016-06-23 12:51:53.898 -0600	LogWarning		the value returned should be 4
+2016-06-23 12:51:53.900 -0600	Exception		Remote Connection Unavailable	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-23 12:51:53.903 -0600	LogError		that the Calculator app is running and in focus
+2016-06-23 12:51:53.904 -0600	Exception		Remote Connection Unavailable	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-23 12:51:53.907 -0600	LogError		there is no current value in the calculator
+2016-06-23 12:51:53.909 -0600	Exception		Remote Connection Unavailable	3	on_i_enter_num_minus_num_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-23 12:51:53.911 -0600	LogError		I enter 10 minus 4 in the calculator
+2016-06-23 12:51:53.913 -0600	LogWarning		the value returned should be 6
+2016-06-23 12:51:53.914 -0600	Exception		Remote Connection Unavailable	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-23 12:51:53.917 -0600	LogError		that the Calculator app is running and in focus
+2016-06-23 12:51:53.919 -0600	Exception		Remote Connection Unavailable	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-23 12:51:53.921 -0600	LogError		there is no current value in the calculator
+2016-06-23 12:51:53.923 -0600	LogWarning		I multiply <Number1> by <Number2> in the calculator app
+2016-06-23 12:51:53.924 -0600	LogSuccess		the app displays the correct answer
+2016-06-23 12:51:53.926 -0600	Exception		Remote Connection Unavailable	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-23 12:51:53.929 -0600	LogError		that the Calculator app is running and in focus
+2016-06-23 12:51:53.931 -0600	Exception		Remote Connection Unavailable	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-23 12:51:53.933 -0600	LogError		there is no current value in the calculator
+2016-06-23 12:51:53.935 -0600	LogWarning		I multiply <Number1> by <Number2> in the calculator app
+2016-06-23 12:51:53.937 -0600	LogSuccess		the app displays the correct answer
+2016-06-23 12:51:53.938 -0600	Exception		Remote Connection Unavailable	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-23 12:51:53.941 -0600	LogError		that the Calculator app is running and in focus
+2016-06-23 12:51:53.942 -0600	Exception		Remote Connection Unavailable	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-23 12:51:53.945 -0600	LogError		there is no current value in the calculator
+2016-06-23 12:51:53.946 -0600	LogWarning		I multiply <Number1> by <Number2> in the calculator app
+2016-06-23 12:51:53.948 -0600	LogSuccess		the app displays the correct answer
+2016-06-23 12:51:53.949 -0600	Exception		Remote Connection Unavailable	2	on_that_the_calculator_app_is_running_and_in_focus	CalculatorTesting.script<SOURCE>
+2016-06-23 12:51:53.952 -0600	LogError		that the Calculator app is running and in focus
+2016-06-23 12:51:53.954 -0600	Exception		Remote Connection Unavailable	2	on_there_is_no_current_value_in_the_calculator	CalculatorTesting.script<SOURCE>
+2016-06-23 12:51:53.957 -0600	LogError		there is no current value in the calculator
+2016-06-23 12:51:53.958 -0600	LogWarning		I multiply <Number1> by <Number2> in the calculator app
+2016-06-23 12:51:53.960 -0600	LogSuccess		the app displays the correct answer
+2016-06-23 12:51:53.962 -0600	EndTestCase		(Duration:"0.13686", Errors:"15", Exceptions:"14", StartTime:"2016-06-23 12:51:53 -0600", Successes:"4", TestCase:"CalculatorTesting.feature", Warnings:"6")
+2016-06-23 12:51:53.987 -0600	FAILURE		6 scenarios (6 failed, 0 passed) 24 steps (14 failed, 6 skipped, 4 passed) Execution Time 0:00:00

@@ -1,0 +1,3 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-29 14:34:02.002 -0600,"Failure",0:00:00,1,2,1,"20160629_143402.002/LogFile.txt","","No Remote Connection -- imagelocation Error - Remote Connection Unavailable",0
+2016-06-29 14:36:28.028 -0600,"Failure",0:00:00,1,2,1,"20160629_143628.028/LogFile.txt","","No Remote Connection -- imagelocation Error - Remote Connection Unavailable",0

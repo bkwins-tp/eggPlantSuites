@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="omEga">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-01-18 12:54:08 -0700</FirstRun>
+  <LastRun>2016-01-18 12:54:08 -0700</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="AndroidChomeTest">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2015-12-07 09:30:27 -0700</FirstRun>
+  <LastRun>2016-06-29 14:33:42 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="reusingExample">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2016-06-29 14:34:02 -0600</FirstRun>
+  <LastRun>2016-06-29 14:36:28 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+</statistics>

@@ -1,0 +1,7 @@
+﻿2015-12-07 09:32:14.748 -0700	START		Running Untitled.script
+2015-12-07 09:32:15.748 -0700	click	ChromeOnAndroidDesktop	at (441, 919)	1	on_untitled	Untitled.script
+2015-12-07 09:32:36.048 -0700	click	InGoogleSearchField	at (67, 591)	2	on_untitled	Untitled.script
+2015-12-07 09:32:36.895 -0700	typetext		Yellowstone[return]	3	on_untitled	Untitled.script
+2015-12-07 09:32:36.951 -0700	Exception		Could Not Open Image: 	6	on_untitled	Untitled.script
+2015-12-07 09:32:36.984 -0700	EndTestCase		(Duration:"22.234838", Errors:"1", Exceptions:"1", StartTime:"2015-12-07 09:32:14 -0700", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2015-12-07 09:32:37.361 -0700	FAILURE	Screen_Error.tiff	File Not Found press Error - Could Not Open Image:  -- Execution Time 0:00:22 Untitled.script

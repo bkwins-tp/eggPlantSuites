@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="reusingExample.script" package="AndroidTestSuite.suite" timestamp="2016-06-29 14:36:28.028 -0600"
+ tests="1" successes="0" errors="1" time="0.373000">
+  <properties>
+   <property name="RunDate" value="2016-06-29 14:36:28.028 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="reusingExample.script" assertions="1" successes="0" errors="1" time="0.365">
+  </testcase>
+ </testsuite>
+</testsuites>

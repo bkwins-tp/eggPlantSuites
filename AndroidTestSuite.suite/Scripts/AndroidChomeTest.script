@@ -1,0 +1,12 @@
+﻿Click "ChromeOnAndroidDesktop"
+Click "InGoogleSearchField"
+TypeText "Yellowstone national park",Return
+(*Click (Image:"BrowserTabNumber-1", WaitFor:85)
+Click "CloseBroswer"*)
+TypeText backbutton
+TypeText homebutton
+
+typetext menuButton
+
+bob
+blob

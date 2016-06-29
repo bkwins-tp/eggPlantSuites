@@ -1,0 +1,7 @@
+﻿2016-06-29 14:34:02.002 -0600	START		Running reusingExample.script
+2016-06-29 14:34:03.003 -0600	LogWarning		Unable to find suite: DSDmySuite.suite	1	on_reusingexample	reusingExample.script
+2016-06-29 14:34:03.003 -0600	LogWarning		Unable to find suite: DSDmyOtherSuite.suite	1	on_reusingexample	reusingExample.script
+2016-06-29 14:34:03.003 -0600	set		FINALSUITES = (DSDmySuite.suite,DSDmyOtherSuite.suite)	1	on_reusingexample	reusingExample.script
+2016-06-29 14:34:03.003 -0600	Exception		Remote Connection Unavailable	3	on_reusingexample	reusingExample.script
+2016-06-29 14:34:03.003 -0600	EndTestCase		(Duration:"0.434", Errors:"1", Exceptions:"1", StartTime:"2016-06-29 14:34:02 -0600", Successes:"0", TestCase:"reusingExample.script", Warnings:"2")
+2016-06-29 14:34:03.003 -0600	FAILURE		No Remote Connection imagelocation Error - Remote Connection Unavailable -- Execution Time 0:00:01 reusingExample.script
