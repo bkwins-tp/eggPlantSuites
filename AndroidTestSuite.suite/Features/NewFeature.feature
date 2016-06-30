@@ -2,6 +2,6 @@
 
   Scenario: sam the scenario!
     Given some stuff
-    When
+    When some more stuff
     Then
 
