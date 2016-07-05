@@ -552,10 +552,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-15 14:41:18.018 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.174000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>7</Warnings>
   <Exceptions>0</Exceptions>
@@ -564,10 +564,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-15 14:41:24.024 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.233000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>7</Warnings>
   <Exceptions>0</Exceptions>
@@ -576,10 +576,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-15 14:45:39.039 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.189000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>6</Warnings>
   <Exceptions>0</Exceptions>
@@ -588,10 +588,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-15 14:46:24.024 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.187000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>5</Warnings>
   <Exceptions>0</Exceptions>
