@@ -3,3 +3,5 @@
 	click "Cancel"  -- dismiss panel
 	cleanupAfterAlert myAlert(23)  -- do cleanup
 end if
+
+add something
